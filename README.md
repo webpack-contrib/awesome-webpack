@@ -65,6 +65,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Other
 
-[026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
+- [026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
 **[Back to top](#table-of-contents)**
