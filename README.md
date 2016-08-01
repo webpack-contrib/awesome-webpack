@@ -38,6 +38,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h3> Libraries</h3>
 
+- [webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi
+- [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Utilities to help your webpack config be easier to read
+- [webpack-combine-loaders](https://www.npmjs.com/package/webpack-combine-loaders) - Converts an array of loaders defined using object syntax into a single loader string.
+
 **[Back to top](#table-of-contents)**
 
 <br>
