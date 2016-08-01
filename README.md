@@ -44,7 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Loaders
 
 - [Babel Loader](https://github.com/babel/babel-loader) - Webpack plugin for Babel.
- - Maintainer: `Babel Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/babel)
+ - Maintainer: `Babel Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/babel) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/babel)
 
 #### Integration Libraries
 
