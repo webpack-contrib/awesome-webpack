@@ -9,14 +9,17 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
 
 ### Table of Contents
- - [Resources](#resources)
+ - [Resources](#webpack-ecosystem)
   - [Documentation](#documentation)
   - [Community](#community)
  - [Libraries](#libraries)
+   - [Loaders](#loaders)
+   - [Integrations](#integration-libraries)
+   - [Tools](#webpack-tools)
  - [Research and Training](#research-and-training)
   - [Articles](#articles)
   - [Talks](#talks)
-  - [Video](#video)
+  - [Video Courses](#courses)
   - [Webpack Examples](#webpack-examples)
   - [Community Examples](#community-examples)
   - [Other](#other)
@@ -38,6 +41,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h3> Libraries</h3>
 
+#### Loaders
+
+- [Babel Loader](https://github.com/babel/babel-loader) - Webpack plugin for Babel.
+ - Maintainer: `Babel Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/babel)
+
+#### Integration Libraries
+
+#### Webpack Tools
+
 - [webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi
 - [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Utilities to help your webpack config be easier to read
 - [webpack-combine-loaders](https://www.npmjs.com/package/webpack-combine-loaders) - Converts an array of loaders defined using object syntax into a single loader string.
@@ -51,7 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Talks
 
-#### Video
+#### Courses
 
 - [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos (the first is free).
 - [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course
