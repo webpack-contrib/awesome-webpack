@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img width="200" src="https://github.com/d3viant0ne/awesome-webpack/blob/master/media/webpack-github.png" alt="Webpack">
+	<img width="355" src="https://raw.githubusercontent.com/d3viant0ne/awesome-webpack/master/media/logo-horizontal.png" alt="Webpack">
 	<br>
 </h3>
 ## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
