@@ -16,8 +16,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Research and Training](#research-and-training)
   - [Articles](#articles)
   - [Talks](#talks)
+  - [Video](#video)
   - [Webpack Examples](#webpack-examples)
   - [Community Examples](#community-examples)
+  - [Other](#other)
 
 <br>
 > <h3>Webpack Ecosystem</h3>
@@ -45,8 +47,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Talks
 
+#### Video
+
+- [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos (the first is free).
+- [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course
+- [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course (advanced)
+
 #### Webpack Examples
 
 #### Community Examples
+
+- [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check out the branches).
+
+#### Other
+
+[026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
 **[Back to top](#table-of-contents)**
