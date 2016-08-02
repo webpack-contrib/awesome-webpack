@@ -138,9 +138,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 > <h2> Research & Training</h2>
 
 ### Articles
-- [Jonathan Creamer | 02-Sept-15](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/) - Advanced WebPack Part 1 - The CommonsChunk Plugin.
+- [Jamund Ferguson | 22-Jul-16](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh) - Manually Tuning Webpack Builds.
+- [Sean T. Larkin | 21-Jul-16](https://medium.com/webpack/webpack-bits-learn-and-debug-webpack-with-chrome-dev-tools-da1c5b19554#.gpoentuxe) - Learn and Debug webpack with Chrome Dev Tools!.
+- [Raja Rao DV | 10-Apr-16](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc) - Webpack  —  The Confusing Parts.
+- [Jonathan Creamer | 25-Feb-16](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/) - WebPack Code splitting with ES6 and Babel 6.
+- [Grgur Grisogono | 15-Feb-16](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r) - Webpack 2 Tree Shaking Configuration.
+- [Ilya Zayats | 07-Feb-16](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz) - How to split your apps by routes with Webpack.
 - [Jonathan Creamer | 10-Jan-16](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) - Advanced WebPack Part 2 - Code Splitting.
+- [Andy Ccs | 02-Jan-16](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4) - Webpack and Docker for Development and Deployment.
 - [Jonathan Creamer | 08-Jun-16](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin/) - Advanced WebPack Part 3 - Creating a custom notifier plugin.
+- [Nader Dabit | 07-Sept-15](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq) - Beginner’s guide to Webpack.
+- [Jonathan Creamer | 02-Sept-15](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/) - Advanced WebPack Part 1 - The CommonsChunk Plugin.
 
 ### Talks
 
