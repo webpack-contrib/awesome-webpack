@@ -164,6 +164,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Nader Dabit | 07-Sept-15](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq) - Beginner’s guide to Webpack.
 - [Jonathan Creamer | 02-Sept-15](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/) - Advanced WebPack Part 1 - The CommonsChunk Plugin.
 - [Maxime Fabre | 16-Oct-15](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Webpack your bags.
+- [Andrew Ray | 09-Apr-16](http://blog.andrewray.me/webpack-when-to-use-and-why/) - Webpack: When To Use and Why.
 
 ### Videos
 - [Eric Clemmons chat with Kent C. Dodds | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
