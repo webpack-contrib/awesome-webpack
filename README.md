@@ -2,6 +2,11 @@
 	<img width="355" src="https://raw.githubusercontent.com/d3viant0ne/awesome-webpack/master/media/logo-horizontal.png" alt="Webpack">
 	<br>
 </h3>
+
+**webpack** is a **module bundler**.
+
+webpack takes modules with dependencies and generates static assets representing those modules.
+<br>
 ## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
