@@ -43,13 +43,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Loaders
 
-##### Templates
+##### Component & Template
 - [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader): Inlines html and style's in Angular2 components.
  - _Maintainer_: `Sean Larkin` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/TheLarkInn) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/TheLarkInn)
 - [Handlebars Loader](https://github.com/pcardune/handlebars-loader): A handlebars template loader for Webpack.
- - _Maintainer_: `Paul Carduner` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/TheLarkInn) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/pcardune)
+ - _Maintainer_: `Paul Carduner` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/pcardune) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/pcardune)
+- [Vue Loader](https://github.com/vuejs/vue-loader): Webpack loader for Vue.js components.
+ - _Maintainer_: `Vuejs Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/vuejs) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/vuejs)
 
-##### Styles
+
+##### Style
 - [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack.
  - _Maintainer_: `PostCSS Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/postcss) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/PostCSS)
 - [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack.
