@@ -6,7 +6,7 @@
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](contributing.md)!
 
 ### Table of Contents
  - [Resources](#webpack-ecosystem)
