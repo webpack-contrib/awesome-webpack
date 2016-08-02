@@ -14,6 +14,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Community](#community)
  - [Libraries](#libraries)
    - [Loaders](#loaders)
+     - [File Type](#file-type)
+     - [Component & Template](#component-&-template)
+     - [Styles](#styles)
+     - [Language & Framework](#language-&-framework)
+     - [Utility](#utility)
+     - [Testing](#testing)
    - [Integrations](#integration-libraries)
    - [Tools](#webpack-tools)
  - [Research and Training](#research-and-training)
@@ -42,6 +48,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 > <h3> Libraries</h3>
 
 #### Loaders
+##### File Type
+- [File Loader](https://github.com/webpack/file-loader): File loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [URL Loader](https://github.com/webpack/file-loader): URL loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [HTML Loader](https://github.com/webpack/html-loader): HTML loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [Raw Loader](https://github.com/webpack/raw-loader): Raw file loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [Image Loader](https://github.com/thetalecrafter/img-loader): Image minimizing loader for webpack.
+ - _Maintainer_: `Andy VanWagoner` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/thetalecrafter) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/thetalecrafter)
+- [json5 Loader](https://github.com/webpack/json5-loader): json5 loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [json Loader](https://github.com/webpack/json-loader): json loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 
 ##### Component & Template
 - [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader): Inlines html and style's in Angular2 components.
@@ -51,25 +72,52 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Vue Loader](https://github.com/vuejs/vue-loader): Webpack loader for Vue.js components.
  - _Maintainer_: `Vuejs Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/vuejs) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/vuejs)
 
-
-##### Style
+##### Styles
+- [Style Loader](https://github.com/webpack/style-loader): Style loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack.
  - _Maintainer_: `PostCSS Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/postcss) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/PostCSS)
 - [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack.
- - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/search?q=webpack)
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [SASS Loader](https://github.com/jtangelder/sass-loader): SASS loader for Webpack.
  - _Maintainer_: `Jorik Tangelder` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/jtangelder) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/jorikdelaporik)
 - [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack.
- - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/search?q=webpack)
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack.
  - _Maintainer_: `Kyle Robinson Young` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/shama) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/shamakry)
+- [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader): Isomorphic CSS style loader for Webpack.
+ - _Maintainer_: `Kriasoft Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/kriasoft) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/kriasoft)
+
+##### Language & Framework
+- [TS Loader](https://github.com/TypeStrong/ts-loader): TypeScript loader for webpack.
+ - _Maintainer_: `TypeStrong Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/TypeStrong)
+- [Awesome TypeScript Loader](https://github.com/s-panferov/awesome-typescript-loader): Awesome TypeScript loader for Webpack.
+ - _Maintainer_: `Stanislav Panferov` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/s-panferov) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/babel)
+- [Coffee Loader](https://github.com/webpack/coffee-loader): Coffee loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles and scripts in your Webpack bundle.
+ - _Maintainer_: `ShakaCode Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/shakacode) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/shakacode)
+- [PostHTML Loader](https://github.com/posthtml/posthtml): PostHTML loader for Webpack.
+ - _Maintainer_: `PostHTML Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/posthtml) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/PostHTML)
 
 ##### Utility
 - [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel.
  - _Maintainer_: `Babel Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/babel) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/babel)
 - [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack.
  - _Maintainer_: `Maxime Thirouin` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/MoOx) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/MoOx)
+- [StyleLint Loader](https://github.com/adrianhall/stylelint-loader): A Webpack Loader for linting SASS, SCSS, CSS and other style sheets.
+ - _Maintainer_: `Adrian Hall` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/adrianhall) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/FizzyInTheHall)
+- [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 
+##### Testing
+- [Mocha Loader](https://github.com/webpack/mocha-loader): Mocha loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+
+**[Back to top](#table-of-contents)**
+<br>
 
 #### Integration Libraries
 
