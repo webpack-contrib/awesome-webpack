@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Jonathan Creamer | 25-Feb-16](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/) - WebPack Code splitting with ES6 and Babel 6.
 - [Grgur Grisogono | 15-Feb-16](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r) - Webpack 2 Tree Shaking Configuration.
 - [Ilya Zayats | 07-Feb-16](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz) - How to split your apps by routes with Webpack.
+- [Sebastian De Deyne | 04-Feb-16](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack) - Adventure Time With Webpack.
 - [Jonathan Creamer | 10-Jan-16](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/) - Advanced WebPack Part 2 - Code Splitting.
 - [Andy Ccs | 02-Jan-16](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4) - Webpack and Docker for Development and Deployment.
 - [Jonathan Creamer | 08-Jun-16](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin/) - Advanced WebPack Part 3 - Creating a custom notifier plugin.
