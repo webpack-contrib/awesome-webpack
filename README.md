@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Other](#other)
 
 <br>
-> <h3>Webpack Ecosystem</h3>
+> <h2>Webpack Ecosystem</h2>
 
 #### Documentation
 
@@ -45,7 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 [Back to top](#table-of-contents)
 
 <br>
-> <h3> Libraries</h3>
+> <h2> Libraries</h2>
 
 #### Loaders
 ##### File Type
@@ -130,7 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 [Back to top](#table-of-contents)
 
 <br>
-> <h3> Research & Training</h3>
+> <h2> Research & Training</h2>
 
 #### Articles
 
