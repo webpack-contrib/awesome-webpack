@@ -25,8 +25,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
    - [Tools](#webpack-tools)
  - [Research & Training](#research--training)
   - [Articles](#articles)
-  - [Talks](#talks)
-  - [Video Courses](#courses)
+  - [Videos](#videos)
+  - [Courses](#courses)
   - [Webpack Examples](#webpack-examples)
   - [Community Examples](#community-examples)
   - [Other](#other)
@@ -35,12 +35,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 > <h2>Webpack Ecosystem</h2>
 
 ### Documentation
-
 - [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
 - [Webpack 2.x](https://webpack.github.io/webpack.io/) - Webpack 2.x Documentation ( Under development )
 
 ### Community
-
 - [Webpack StackOverflow](http://stackoverflow.com/tags/webpack)
 
 [Back to top](#table-of-contents)
@@ -151,12 +149,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Nader Dabit | 07-Sept-15](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq) - Beginner’s guide to Webpack.
 - [Jonathan Creamer | 02-Sept-15](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/) - Advanced WebPack Part 1 - The CommonsChunk Plugin.
 
-### Talks
+### Videos
+- [Eric Clemmons on JavaScript Air | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
+- [Mirko Nasato (5 Part Series) | 07-Jun-16](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p) - Angular2 with Webpack Project Setup.
+- [Jonathan Creamer at Nodevember | 05-Dec-15](https://www.youtube.com/watch?v=MzVFrIAwwS8) - Advanced WebPack.
+- [Kyle Robinson Young | 08-Jul-15](https://www.youtube.com/watch?v=TaWKUpahFZM) - Getting Started with Webpack.
+- [Tasveer Singh at TorontoJS Tech Talk | 09-Apr-15](https://www.youtube.com/watch?v=TaWKUpahFZM) - Webpack.
+- [Jeremy Lund at Mountain West JS | 28-Mar-15](https://www.youtube.com/watch?v=ANMN9M9LhNQ) - Gift Wrap Your Code with Webpack.
 
 ### Courses
 - [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos (the first is free).
 - [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course
 - [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course (advanced)
+- [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - Joe Eames for Pluralsight (intermediate)
 
 ### Webpack Examples
 - [Webpack Examples](https://github.com/webpack/webpack/tree/master/examples): Examples of common Webpack functionality.
@@ -166,6 +171,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) - A Webpack driven Angular 2 Starter kit from [AngularClass](https://github.com/AngularClass).
 
 ### Other
-- [026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
+- [Juho, Johannes, Tibias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
 [Back to top](#table-of-contents)
