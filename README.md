@@ -115,6 +115,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Import Loader](https://github.com/webpack/imports-loader): Imports loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [SourceMap Loader](https://github.com/webpack/source-map-loader): Extract sourceMappingURL comments from modules. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders) - Converts a loaders array into a single loader string.  -- _Maintainer_: `James Friend` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/jsdf)
+- [Icon Font Loader](https://www.npmjs.com/package/icons-loader) - webpack loader for generating an iconfont from SVG dependencies.  -- _Maintainer_: `Tom Grooffer` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/tomgrooffer)- 
 
 ##### Testing
 - [Mocha Loader](https://github.com/webpack/mocha-loader): Mocha loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
