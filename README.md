@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Resources](#webpack-ecosystem)
   - [Documentation](#documentation)
   - [Community](#community)
+  - [Twitter Follows](#twitter)
  - [Libraries](#libraries)
    - [Loaders](#loaders)
      - [File Type](#file-type)
@@ -40,6 +41,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Community
 - [Webpack StackOverflow](http://stackoverflow.com/tags/webpack)
+- [Webpack Medium](https://medium.com/tag/webpack)
+- [Webpack Gitter Chat](https://gitter.im/webpack/webpack)
+
+### Twitter  _People passionate about Webpack ( In no particular order )_
+- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn)
+- [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw)
+- [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons)
+- [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290)
+- [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds)
+- [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns)
+- [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry)
+- [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne)
+- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898)
 
 [Back to top](#table-of-contents)
 
@@ -148,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Jonathan Creamer | 08-Jun-16](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin/) - Advanced WebPack Part 3 - Creating a custom notifier plugin.
 - [Nader Dabit | 07-Sept-15](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq) - Beginner’s guide to Webpack.
 - [Jonathan Creamer | 02-Sept-15](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/) - Advanced WebPack Part 1 - The CommonsChunk Plugin.
+- [Maxime Fabre | 16-Oct-15](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Webpack your bags.
 
 ### Videos
 - [Eric Clemmons on JavaScript Air | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
