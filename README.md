@@ -92,8 +92,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Webpack Tools
 - [webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi.  -- _Maintainer_: `js-dxtools Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/js-dxtools)
-- [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Utilities to make your webpack config easier to read.  -- _Maintainer_: `Kent C. Dodds` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/kentcdodds) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/kentcdodds)
-- [webpack-combine-loaders](https://www.npmjs.com/package/webpack-combine-loaders) - Converts an array of loaders into a single loader string.  -- _Maintainer_: `James Friend` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/jsdf)
+- [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Util. to make your webpack config easier to read.  -- _Maintainer_: `Kent C. Dodds` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/kentcdodds) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/kentcdodds)
+- [webpack-combine-loaders](https://www.npmjs.com/package/webpack-combine-loaders) - Converts a loaders array into a single loader string.  -- _Maintainer_: `James Friend` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/jsdf)
 
 [Back to top](#table-of-contents)
 
