@@ -166,7 +166,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Maxime Fabre | 16-Oct-15](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Webpack your bags.
 
 ### Videos
-- [Eric Clemmons on JavaScript Air | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
+- [Eric Clemmons chat with Kent C. Dodds | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
 - [Mirko Nasato (5 Part Series) | 07-Jun-16](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p) - Angular2 with Webpack Project Setup.
 - [Jonathan Creamer at Nodevember | 05-Dec-15](https://www.youtube.com/watch?v=MzVFrIAwwS8) - Advanced WebPack.
 - [Kyle Robinson Young | 08-Jul-15](https://www.youtube.com/watch?v=TaWKUpahFZM) - Getting Started with Webpack.
@@ -174,16 +174,16 @@ _People passionate about Webpack ( In no particular order )_
 - [Jeremy Lund at Mountain West JS | 28-Mar-15](https://www.youtube.com/watch?v=ANMN9M9LhNQ) - Gift Wrap Your Code with Webpack.
 
 ### Courses
-- [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos (the first is free).
-- [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course
-- [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course (advanced)
-- [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - Joe Eames for Pluralsight (intermediate)
+- [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos by [Kent C. Dodds](https://twitter.com/kentcdodds) (the first is free).
+- [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course by [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course by [Kent C. Dodds](https://twitter.com/kentcdodds) (advanced)
+- [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) for Pluralsight (intermediate)
 
 ### Webpack Examples
 - [Webpack Examples](https://github.com/webpack/webpack/tree/master/examples): Examples of common Webpack functionality.
 
 ### Community Examples
-- [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check out the branches).
+- [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check out the branches).  -- _Maintainer_: `Kent C. Dodds` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/kentcdodds) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/kentcdodds)
 - [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) - A Webpack driven Angular 2 Starter kit from [AngularClass](https://github.com/AngularClass).
 
 ### Other
