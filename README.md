@@ -53,6 +53,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/search?q=webpack)
 - [SASS Loader](https://github.com/jtangelder/sass-loader): SASS loader for Webpack.
  - _Maintainer_: `Jorik Tangelder` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/jtangelder) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/jorikdelaporik)
+- [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack.
+ - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/search?q=webpack)
+- [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack.
+ - _Maintainer_: `Kyle Robinson Young` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/shama) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/shamakry)
+
+
 
 #### Integration Libraries
 
