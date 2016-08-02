@@ -33,12 +33,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h2>Webpack Ecosystem</h2>
 
-#### Documentation
+### Documentation
 
 - [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
 - [Webpack 2.x](https://webpack.github.io/webpack.io/) - Webpack 2.x Documentation ( Under development )
 
-#### Community
+### Community
 
 - [Webpack StackOverflow](http://stackoverflow.com/tags/webpack)
 
@@ -47,7 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h2> Libraries</h2>
 
-#### Loaders
+### Loaders
 ##### File Type
 - [File Loader](https://github.com/webpack/file-loader): File loader module for Webpack.
  - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
@@ -119,9 +119,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 [Back to top](#table-of-contents)
 <br>
 
-#### Integration Libraries
+### Integration Libraries
 
-#### Webpack Tools
+### Webpack Tools
 
 - [webpack-validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi
 - [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Utilities to help your webpack config be easier to read
@@ -132,23 +132,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 <br>
 > <h2> Research & Training</h2>
 
-#### Articles
+### Articles
 
-#### Talks
+### Talks
 
-#### Courses
+### Courses
 
 - [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos (the first is free).
 - [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course
 - [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course (advanced)
 
-#### Webpack Examples
+### Webpack Examples
 
-#### Community Examples
+### Community Examples
 
 - [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check out the branches).
 
-#### Other
+### Other
 
 - [026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
