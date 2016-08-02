@@ -70,7 +70,7 @@ _People passionate about Webpack ( In no particular order )_
 ### Loaders
 ##### File Type
 - [File Loader](https://github.com/webpack/file-loader): File loader module for Webpack. -- _Maintained By_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
-- [URL Loader](https://github.com/webpack/file-loader): URL loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
+- [URL Loader](https://github.com/webpack/url-loader): URL loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [HTML Loader](https://github.com/webpack/html-loader): HTML loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [Raw Loader](https://github.com/webpack/raw-loader): Raw file loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 - [Image Loader](https://github.com/thetalecrafter/img-loader): Image minimizing loader for webpack. -- _Maintainer_: `Andy VanWagoner` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/thetalecrafter) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/thetalecrafter)
