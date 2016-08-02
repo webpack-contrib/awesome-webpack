@@ -44,7 +44,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Webpack Medium](https://medium.com/tag/webpack)
 - [Webpack Gitter Chat](https://gitter.im/webpack/webpack)
 
-### Twitter  _People passionate about Webpack ( In no particular order )_
+### Twitter
+_People passionate about Webpack ( In no particular order )_
 - [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn)
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw)
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons)
