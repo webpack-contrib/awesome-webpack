@@ -43,12 +43,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Loaders
 
-- [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel.
- - _Maintainer_: `Babel Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/babel) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/babel)
+###### Templates
+- [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader): Inlines html and style's in Angular2 components.
+ - _Maintainer_: `Sean Larkin` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/TheLarkInn) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/TheLarkInn)
+- [Handlebars Loader](https://github.com/pcardune/handlebars-loader): A handlebars template loader for Webpack.
+ - _Maintainer_: `Paul Carduner` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/TheLarkInn) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/pcardune)
+
+###### Styles
 - [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack.
  - _Maintainer_: `PostCSS Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/postcss) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/PostCSS)
-- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack.
- - _Maintainer_: `Maxime Thirouin` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/MoOx) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/MoOx)
 - [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack.
  - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/search?q=webpack)
 - [SASS Loader](https://github.com/jtangelder/sass-loader): SASS loader for Webpack.
@@ -58,6 +61,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack.
  - _Maintainer_: `Kyle Robinson Young` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/shama) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/shamakry)
 
+###### Utility
+- [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel.
+ - _Maintainer_: `Babel Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/babel) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/babel)
+- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack.
+ - _Maintainer_: `Maxime Thirouin` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/MoOx) [![Twitter](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg)](https://twitter.com/MoOx)
 
 
 #### Integration Libraries
