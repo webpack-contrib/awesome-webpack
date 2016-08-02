@@ -15,14 +15,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
  - [Libraries](#libraries)
    - [Loaders](#loaders)
      - [File Type](#file-type)
-     - [Component & Template](#component-&-template)
+     - [Component & Template](#component--template)
      - [Styles](#styles)
-     - [Language & Framework](#language-&-framework)
+     - [Language & Framework](#language--framework)
      - [Utility](#utility)
      - [Testing](#testing)
    - [Integrations](#integration-libraries)
    - [Tools](#webpack-tools)
- - [Research and Training](#research-and-training)
+ - [Research & Training](#research--training)
   - [Articles](#articles)
   - [Talks](#talks)
   - [Video Courses](#courses)
@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [Webpack StackOverflow](http://stackoverflow.com/tags/webpack)
 
-**[Back to top](#table-of-contents)**
+[Back to top](#table-of-contents)
 
 <br>
 > <h3> Libraries</h3>
@@ -116,7 +116,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack.
  - _Maintainer_: `Webpack Team` [![Github](https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg)](https://github.com/webpack)
 
-**[Back to top](#table-of-contents)**
+[Back to top](#table-of-contents)
 <br>
 
 #### Integration Libraries
@@ -127,10 +127,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [webpack-config-utils](https://github.com/kentcdodds/webpack-config-utils) - Utilities to help your webpack config be easier to read
 - [webpack-combine-loaders](https://www.npmjs.com/package/webpack-combine-loaders) - Converts an array of loaders defined using object syntax into a single loader string.
 
-**[Back to top](#table-of-contents)**
+[Back to top](#table-of-contents)
 
 <br>
-> <h3> Research And Training</h3>
+> <h3> Research & Training</h3>
 
 #### Articles
 
@@ -152,4 +152,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [026 - webpack](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
-**[Back to top](#table-of-contents)**
+[Back to top](#table-of-contents)
