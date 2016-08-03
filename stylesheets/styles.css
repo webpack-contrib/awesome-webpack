@@ -103,6 +103,13 @@ a small {
   display:block;
 }
 
+a v-small {
+  font-size:10px;
+  color:#777;
+  margin-top:-0.5em;
+  display:block;
+}
+
 a:hover small {
   color:#777;
 }
