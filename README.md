@@ -36,9 +36,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
   - [Books](#books)
   - [Webpack Examples](#webpack-examples)
   - [Community Examples](#community-examples)
-   - [Angular](#angular)
-   - [Framework Agnostic](#framework-agnostic)
-   - [React](#react)
+    - [Angular](#angular)
+    - [Framework Agnostic](#framework-agnostic)
+    - [React](#react)
   - [Other](#other)
 
 <br>
