@@ -61,6 +61,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry)
 - [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne)
 - [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898)
+- [Jan Nicklas - @jantimon](https://twitter.com/jantimon)
 
 [Back to top](#table-of-contents)
 
@@ -138,7 +139,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Compression Plugin](https://github.com/webpack/compression-webpack-plugin): Prepare assets to serve with Content-Encoding. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
 - [Offline Plugin](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for Webpack. -- _Maintainer_: `Arthur Stolyar` [![Github][githubIcon]](https://github.com/NekR) [![Twitter][twitterIcon]](https://twitter.com/nekrtemplar)
 - [Rewire Plugin](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- _Maintainer_: `Johannes Ewald` [![Github][githubIcon]](https://github.com/jhnns) [![Twitter][twitterIcon]](https://twitter.com/Jhnnns)
-- [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- _Maintainer_: `Charles Blaxland` [![Github][githubIcon]](https://github.com/ampedandwired) [![Twitter][twitterIcon]](https://twitter.com/ampedandwired)
+- [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- _Maintainer_: `Jan Nicklas` [![Github][githubIcon]](https://github.com/jantimon) [![Twitter][twitterIcon]](https://twitter.com/jantimon)
 - [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin): Copy files and directories in webpack. -- _Maintainer_: `Len Boyette` [![Github][githubIcon]](https://github.com/kevlened) [![Twitter][twitterIcon]](https://twitter.com/kevlened)
 - [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path): Split By Path Webpack Plugin. -- _Maintainer_: `Bohdan Tkachenko` [![Github][githubIcon]](https://github.com/BohdanTkachenko) [![Twitter][twitterIcon]](https://twitter.com/bohdantkachenko)
 
