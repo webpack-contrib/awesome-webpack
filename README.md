@@ -148,7 +148,7 @@ _People passionate about Webpack ( In no particular order )_
 ### Webpack Tools
 - [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware): Middleware which arguments a live bundle. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
 - [Webpack Dev Server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Webpack Merge](https://github.com/ericclemmons/npm-install-webpack-plugin) - Merge designed for Webpack.  -- _Maintainer_: `SurviveJS Team` [![Github][githubIcon]](https://github.com/survivejs) [![Twitter][twitterIcon]](https://twitter.com/survivejs)
+- [Webpack Merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack.  -- _Maintainer_: `Juho Vepsäläinen` [![Github][githubIcon]](https://github.com/bebraw) [![Twitter][twitterIcon]](https://twitter.com/bebraw)
 - [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- _Maintainer_: `Eric Clemmons` [![Github][githubIcon]](https://github.com/ericclemmons) [![Twitter][twitterIcon]](https://twitter.com/ericclemmons)
 - [Webpack Validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi.  -- _Maintainer_: `js-dxtools Team` [![Github][githubIcon]](https://github.com/js-dxtools)
 - [Webpack Config Utils](https://github.com/kentcdodds/webpack-config-utils) - Util. to make your webpack config easier to read.  -- _Maintainer_: `Kent C. Dodds` [![Github][githubIcon]](https://github.com/kentcdodds) [![Twitter][twitterIcon]](https://twitter.com/kentcdodds)
@@ -192,7 +192,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) for Pluralsight (intermediate)
 
 ### Books
-- [SurviveJS Webpack](http://survivejs.com/webpack/introduction/): Webpack from apprentice to master.
+- [SurviveJS Webpack](http://survivejs.com/webpack/introduction/): Free book guiding from a webpack apprentice to master. Covers development, production, and advanced topics.
 
 ### Webpack Examples
 - [Webpack Examples](https://github.com/webpack/webpack/tree/master/examples): Examples of common Webpack functionality.
