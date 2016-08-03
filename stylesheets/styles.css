@@ -164,7 +164,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header div ul {
+header ul {
   list-style:none;
   font-size:11px;
 }
