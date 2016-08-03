@@ -81,6 +81,9 @@ h1 {
 
 h2 {
   color:#393939;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(238, 238, 238);
 }
 
 h3, h4, h5, h6 {
