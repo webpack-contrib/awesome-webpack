@@ -32,7 +32,7 @@ this project. Project maintainers who do not follow or enforce the Code of
 Conduct may be permanently removed from the project team.
 
 This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community.
+when an individual is representing the project or its community. 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting a project maintainer at wiens.joshua@gmail.com. All
