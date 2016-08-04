@@ -11,7 +11,7 @@ webpack takes modules with dependencies and generates static assets representing
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](contributing.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-webpack/blob/master/contributing.md)!
 
 ### Table of Contents
  - [Resources](#webpack-ecosystem)
@@ -196,7 +196,7 @@ _People passionate about Webpack ( In no particular order )_
 - [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) for Pluralsight (intermediate)
 
 ### Books
-- [SurviveJS Webpack](http://survivejs.com/webpack/introduction/): Free book guiding from a webpack apprentice to master. Covers development, production, and advanced topics.
+- [SurviveJS - Webpack](http://survivejs.com/webpack/introduction/): Free book guiding from a webpack apprentice to master. Covers development, production, and advanced topics.
 
 ### Webpack Examples
 - [Webpack Examples](https://github.com/webpack/webpack/tree/master/examples): Examples of common Webpack functionality.
@@ -223,7 +223,7 @@ _People passionate about Webpack ( In no particular order )_
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 
 ### Other
-- [Juho, Johannes, Tibias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
+- [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
 
 [Back to top](#table-of-contents)
 
