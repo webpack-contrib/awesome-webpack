@@ -15,12 +15,16 @@
   ],
   "author": "Joshua Wiens <d3viant0ne>",
   "contributors": [
-  {
-    "name": "Kent C. Dodds <kentcdodds>",
-    "name": "Juho Vepsalainen <bebraw>",
-    "name": "Sean Larkin <TheLarkInn>"
-  }
-],
+    {
+      "name": "Kent C. Dodds <kentcdodds>"
+    },
+    {
+      "name": "Juho Vepsalainen <bebraw>"
+    },
+    {
+      "name": "Sean Larkin <TheLarkInn>"
+    }
+  ],
   "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/d3viant0ne/awesome-webpack/issues"
