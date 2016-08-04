@@ -80,7 +80,7 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#777;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: rgb(238, 238, 238);
@@ -123,7 +123,7 @@ a:hover small {
 
 blockquote {
   border-left:2px solid #e5e5e5;
-  color:#777;
+  color:#393939;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
