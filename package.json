@@ -1,0 +1,36 @@
+{
+  "name": "awesome-webpack",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Webpack resources, libraries and tools",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3viant0ne/awesome-webpack.git"
+  },
+  "keywords": [
+    "awesome",
+    "webpack"
+  ],
+  "author": "Joshua Wiens <d3viant0ne>",
+  "contributors": [
+    {
+      "name": "Kent C. Dodds <kentcdodds>"
+    },
+    {
+      "name": "Juho Vepsalainen <bebraw>"
+    },
+    {
+      "name": "Sean Larkin <TheLarkInn>"
+    }
+  ],
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/d3viant0ne/awesome-webpack/issues"
+  },
+  "homepage": "https://github.com/d3viant0ne/awesome-webpack#readme",
+  "devDependencies": {
+    "awesome-lint": "^0.1.0"
+  }
+}

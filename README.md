@@ -7,29 +7,30 @@
 
 webpack takes modules with dependencies and generates static assets representing those modules.
 <br>
-## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/d3viant0ne/awesome-webpack.svg?branch=master)](https://travis-ci.org/d3viant0ne/awesome-webpack)
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-webpack/blob/master/contributing.md)!
+<!--lint disable list-item-indent-->
 
 ### Table of Contents
- - [Resources](#webpack-ecosystem)
+- [Resources](#webpack-ecosystem)
   - [Documentation](#documentation)
   - [Community](#community)
   - [Twitter Follows](#twitter)
- - [Libraries](#libraries)
-   - [Loaders](#loaders)
-     - [File Type](#file-type)
-     - [Component & Template](#component--template)
-     - [Styles](#styles)
-     - [Language & Framework](#language--framework)
-     - [Utility](#utility)
-     - [Testing](#testing)
-   - [Integrations](#integration-libraries)
-   - [Plugins](#webpack-plugins)
-   - [Tools](#webpack-tools)
- - [Research & Training](#research--training)
+- [Libraries](#libraries)
+  - [Loaders](#loaders)
+    - [File Type](#file-type)
+    - [Component & Template](#component--template)
+    - [Styles](#styles)
+    - [Language & Framework](#language--framework)
+    - [Utility](#utility)
+    - [Testing](#testing)
+  - [Integrations](#integration-libraries)
+  - [Plugins](#webpack-plugins)
+  - [Tools](#webpack-tools)
+- [Research & Training](#research--training)
   - [Articles](#articles)
   - [Videos](#videos)
   - [Courses](#courses)
@@ -41,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
     - [React](#react)
   - [Other](#other)
 
+<!--lint disable list-item-indent-->
 <br>
 > <h2>Webpack Ecosystem</h2>
 
@@ -54,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Webpack Gitter Chat](https://gitter.im/webpack/webpack)
 
 ### Twitter
-_People passionate about Webpack ( In no particular order )_
+*People passionate about Webpack ( In no particular order )*
 - [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn)
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw)
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons)
@@ -73,91 +75,91 @@ _People passionate about Webpack ( In no particular order )_
 
 ### Loaders
 ##### File Type
-- [File Loader](https://github.com/webpack/file-loader): File loader module for Webpack. -- _Maintained By_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [URL Loader](https://github.com/webpack/url-loader): URL loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [HTML Loader](https://github.com/webpack/html-loader): HTML loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Raw Loader](https://github.com/webpack/raw-loader): Raw file loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Image Loader](https://github.com/thetalecrafter/img-loader): Image minimizing loader for webpack. -- _Maintainer_: `Andy VanWagoner` [![Github][githubIcon]](https://github.com/thetalecrafter) [![Twitter][twitterIcon]](https://twitter.com/thetalecrafter)
-- [SVG Url Loader](https://github.com/bhovhannes/svg-url-loader): Loader which loads SVG file as utf-8 encoded Url. -- _Maintainer_: `Hovhannes Babayan` [![Github][githubIcon]](https://github.com/bhovhannes)
-- [json5 Loader](https://github.com/webpack/json5-loader): json5 loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [json Loader](https://github.com/webpack/json-loader): json loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
+- [File Loader](https://github.com/webpack/file-loader): File loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [URL Loader](https://github.com/webpack/url-loader): URL loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [HTML Loader](https://github.com/webpack/html-loader): HTML loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Raw Loader](https://github.com/webpack/raw-loader): Raw file loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Image Loader](https://github.com/thetalecrafter/img-loader): Image minimizing loader for webpack. -- *Maintainer*: `Andy VanWagoner` [![Github][githubicon]](https://github.com/thetalecrafter) [![Twitter][twittericon]](https://twitter.com/thetalecrafter)
+- [SVG Url Loader](https://github.com/bhovhannes/svg-url-loader): Loader which loads SVG file as utf-8 encoded Url. -- *Maintainer*: `Hovhannes Babayan` [![Github][githubicon]](https://github.com/bhovhannes)
+- [json5 Loader](https://github.com/webpack/json5-loader): json5 loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [json Loader](https://github.com/webpack/json-loader): json loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 
 ##### Component & Template
-- [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader): Inlines html and style's in Angular2 components. -- _Maintainer_: `Sean Larkin` [![Github][githubIcon]](https://github.com/TheLarkInn) [![Twitter][twitterIcon]](https://twitter.com/TheLarkInn)
-- [Handlebars Loader](https://github.com/pcardune/handlebars-loader): A handlebars template loader for Webpack. -- _Maintainer_: `Paul Carduner` [![Github][githubIcon]](https://github.com/pcardune) [![Twitter][twitterIcon]](https://twitter.com/pcardune)
-- [Vue Loader](https://github.com/vuejs/vue-loader): Webpack loader for Vue.js components. -- _Maintainer_: `Vuejs Team` [![Github][githubIcon]](https://github.com/vuejs) [![Twitter][twitterIcon]](https://twitter.com/vuejs)
-- [SVG React Loader](https://github.com/jhamlet/svg-react-loader) - Webpack SVG to React Component Loader.  -- _Maintainer_: `Jerry Hamlet` [![Github][githubIcon]](https://github.com/jhamlet) [![Twitter][twitterIcon]](https://twitter.com/jerryhamlet)
-- [Underscore Loader](https://github.com/emaphp/underscore-template-loader) - Underscore and Lodash template loader.  -- _Maintainer_: `Emmanuel Antico` [![Github][githubIcon]](https://github.com/emaphp) [![Twitter][twitterIcon]](https://twitter.com/emaphp)
-- [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader) - Angular1 Template Loader.  -- _Maintainer_: `Toby Rahilly` [![Github][githubIcon]](https://github.com/WearyMonkey)
+- [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader): Inlines html and style's in Angular2 components. -- *Maintainer*: `Sean Larkin` [![Github][githubicon]](https://github.com/TheLarkInn) [![Twitter][twittericon]](https://twitter.com/TheLarkInn)
+- [Handlebars Loader](https://github.com/pcardune/handlebars-loader): A handlebars template loader for Webpack. -- *Maintainer*: `Paul Carduner` [![Github][githubicon]](https://github.com/pcardune) [![Twitter][twittericon]](https://twitter.com/pcardune)
+- [Vue Loader](https://github.com/vuejs/vue-loader): Webpack loader for Vue.js components. -- *Maintainer*: `Vuejs Team` [![Github][githubicon]](https://github.com/vuejs) [![Twitter][twittericon]](https://twitter.com/vuejs)
+- [SVG React Loader](https://github.com/jhamlet/svg-react-loader) - Webpack SVG to React Component Loader.  -- *Maintainer*: `Jerry Hamlet` [![Github][githubicon]](https://github.com/jhamlet) [![Twitter][twittericon]](https://twitter.com/jerryhamlet)
+- [Underscore Loader](https://github.com/emaphp/underscore-template-loader) - Underscore and Lodash template loader.  -- *Maintainer*: `Emmanuel Antico` [![Github][githubicon]](https://github.com/emaphp) [![Twitter][twittericon]](https://twitter.com/emaphp)
+- [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader) - Angular1 Template Loader.  -- *Maintainer*: `Toby Rahilly` [![Github][githubicon]](https://github.com/WearyMonkey)
 
 ##### Styles
-- [Style Loader](https://github.com/webpack/style-loader): Style loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack. -- _Maintainer_: `PostCSS Team` [![Github][githubIcon]](https://github.com/postcss) [![Twitter][twitterIcon]](https://twitter.com/PostCSS)
-- [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [SASS Loader](https://github.com/jtangelder/sass-loader): SASS loader for Webpack. -- _Maintainer_: `Jorik Tangelder` [![Github][githubIcon]](https://github.com/jtangelder) [![Twitter][twitterIcon]](https://twitter.com/jorikdelaporik)
-- [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- _Maintainer_: `Kyle Robinson Young` [![Github][githubIcon]](https://github.com/shama) [![Twitter][twitterIcon]](https://twitter.com/shamakry)
-- [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader): Isomorphic CSS style loader for Webpack. -- _Maintainer_: `Kriasoft Team` [![Github][githubIcon]](https://github.com/kriasoft) [![Twitter][twitterIcon]](https://twitter.com/kriasoft)
+- [Style Loader](https://github.com/webpack/style-loader): Style loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack. -- *Maintainer*: `PostCSS Team` [![Github][githubicon]](https://github.com/postcss) [![Twitter][twittericon]](https://twitter.com/PostCSS)
+- [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [SASS Loader](https://github.com/jtangelder/sass-loader): SASS loader for Webpack. -- *Maintainer*: `Jorik Tangelder` [![Github][githubicon]](https://github.com/jtangelder) [![Twitter][twittericon]](https://twitter.com/jorikdelaporik)
+- [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
+- [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader): Isomorphic CSS style loader for Webpack. -- *Maintainer*: `Kriasoft Team` [![Github][githubicon]](https://github.com/kriasoft) [![Twitter][twittericon]](https://twitter.com/kriasoft)
 
 ##### Language & Framework
-- [TS Loader](https://github.com/TypeStrong/ts-loader): TypeScript loader for webpack. -- _Maintainer_: `TypeStrong Team` [![Github][githubIcon]](https://github.com/TypeStrong)
-- [Awesome TypeScript Loader](https://github.com/s-panferov/awesome-typescript-loader): Awesome TS loader for Webpack. -- _Maintainer_: `Stanislav Panferov` [![Github][githubIcon]](https://github.com/s-panferov) [![Twitter][twitterIcon]](https://twitter.com/babel)
-- [Coffee Loader](https://github.com/webpack/coffee-loader): Coffee loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles in your Webpack bundle. -- _Maintainer_: `ShakaCode Team` [![Github][githubIcon]](https://github.com/shakacode) [![Twitter][twitterIcon]](https://twitter.com/shakacode)
-- [PostHTML Loader](https://github.com/posthtml/posthtml): PostHTML loader for Webpack. -- _Maintainer_: `PostHTML Team` [![Github][githubIcon]](https://github.com/posthtml) [![Twitter][twitterIcon]](https://twitter.com/PostHTML)
-- [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader): Webpack loader for the Elm programming language. -- _Maintainer_: `Richard Feldman` [![Github][githubIcon]](https://github.com/rtfeldman) [![Twitter][twitterIcon]](https://twitter.com/rtfeldman)
+- [TS Loader](https://github.com/TypeStrong/ts-loader): TypeScript loader for webpack. -- *Maintainer*: `TypeStrong Team` [![Github][githubicon]](https://github.com/TypeStrong)
+- [Awesome TypeScript Loader](https://github.com/s-panferov/awesome-typescript-loader): Awesome TS loader for Webpack. -- *Maintainer*: `Stanislav Panferov` [![Github][githubicon]](https://github.com/s-panferov) [![Twitter][twittericon]](https://twitter.com/babel)
+- [Coffee Loader](https://github.com/webpack/coffee-loader): Coffee loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles in your Webpack bundle. -- *Maintainer*: `ShakaCode Team` [![Github][githubicon]](https://github.com/shakacode) [![Twitter][twittericon]](https://twitter.com/shakacode)
+- [PostHTML Loader](https://github.com/posthtml/posthtml): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
+- [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader): Webpack loader for the Elm programming language. -- *Maintainer*: `Richard Feldman` [![Github][githubicon]](https://github.com/rtfeldman) [![Twitter][twittericon]](https://twitter.com/rtfeldman)
 
 ##### Utility
-- [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- _Maintainer_: `Babel Team` [![Github][githubIcon]](https://github.com/babel) [![Twitter][twitterIcon]](https://twitter.com/babel)
-- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack. -- _Maintainer_: `Maxime Thirouin` [![Github][githubIcon]](https://github.com/MoOx) [![Twitter][twitterIcon]](https://twitter.com/MoOx)
-- [StyleLint Loader](https://github.com/adrianhall/stylelint-loader): A Webpack Loader for linting SASS, SCSS & CSS. -- _Maintainer_: `Adrian Hall` [![Github][githubIcon]](https://github.com/adrianhall) [![Twitter][twitterIcon]](https://twitter.com/FizzyInTheHall)
-- [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [JSCS Loader](https://github.com/unindented/jscs-loader): Run your source through the JSCS style checker. -- _Maintainer_: `Daniel Perez Alvarez` [![Github][githubIcon]](https://github.com/unindented)
-- [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Bundle Loader](https://github.com/webpack/bundle-loader): Bundle loader for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Worker Loader](https://github.com/webpack/worker-loader): Worker loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [JSCS Loader](https://github.com/unindented/jscs-loader): Resolves relative paths in url() statements. -- _Maintainer_: `Ben Holloway` [![Github][githubIcon]](https://github.com/bholloway)
-- [Import Loader](https://github.com/webpack/imports-loader): Imports loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [SourceMap Loader](https://github.com/webpack/source-map-loader): Extract sourceMappingURL comments from modules. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders) - Converts a loaders array into a single loader string.  -- _Maintainer_: `James Friend` [![Github][githubIcon]](https://github.com/jsdf)
-- [Icon Font Loader](https://www.npmjs.com/package/icons-loader) - Generates an iconfont from SVG dependencies.  -- _Maintainer_: `Tom Grooffer` [![Github][githubIcon]](https://github.com/tomgrooffer)
+- [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- *Maintainer*: `Babel Team` [![Github][githubicon]](https://github.com/babel) [![Twitter][twittericon]](https://twitter.com/babel)
+- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack. -- *Maintainer*: `Maxime Thirouin` [![Github][githubicon]](https://github.com/MoOx) [![Twitter][twittericon]](https://twitter.com/MoOx)
+- [StyleLint Loader](https://github.com/adrianhall/stylelint-loader): A Webpack Loader for linting SASS, SCSS & CSS. -- *Maintainer*: `Adrian Hall` [![Github][githubicon]](https://github.com/adrianhall) [![Twitter][twittericon]](https://twitter.com/FizzyInTheHall)
+- [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [JSCS Loader](https://github.com/unindented/jscs-loader): Run your source through the JSCS style checker. -- *Maintainer*: `Daniel Perez Alvarez` [![Github][githubicon]](https://github.com/unindented)
+- [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Bundle Loader](https://github.com/webpack/bundle-loader): Bundle loader for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Worker Loader](https://github.com/webpack/worker-loader): Worker loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [JSCS Loader](https://github.com/unindented/jscs-loader): Resolves relative paths in url() statements. -- *Maintainer*: `Ben Holloway` [![Github][githubicon]](https://github.com/bholloway)
+- [Import Loader](https://github.com/webpack/imports-loader): Imports loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [SourceMap Loader](https://github.com/webpack/source-map-loader): Extract sourceMappingURL comments from modules. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders) - Converts a loaders array into a single loader string.  -- *Maintainer*: `James Friend` [![Github][githubicon]](https://github.com/jsdf)
+- [Icon Font Loader](https://www.npmjs.com/package/icons-loader) - Generates an iconfont from SVG dependencies.  -- *Maintainer*: `Tom Grooffer` [![Github][githubicon]](https://github.com/tomgrooffer)
 
 ##### Testing
-- [Mocha Loader](https://github.com/webpack/mocha-loader): Mocha loader module for Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
+- [Mocha Loader](https://github.com/webpack/mocha-loader): Mocha loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 
 [Back to top](#table-of-contents)
 
 <br>
 ### Integration Libraries
-- [Terse Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Webpack simplified in a fluent API with presets.  -- _Maintainer_: `Eric Clemmons` [![Github][githubIcon]](https://github.com/ericclemmons) [![Twitter][twitterIcon]](https://twitter.com/ericclemmons)
-- [SystemJS Webpack](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS.  -- _Maintainer_: `Guy Bedford` [![Github][githubIcon]](https://github.com/guybedford) [![Twitter][twitterIcon]](https://twitter.com/guybedford)
-- [Gulp Webpack Stream](https://github.com/shama/webpack-stream) - Run webpack through a stream interface.  -- _Maintainer_: `Kyle Robinson Young` [![Github][githubIcon]](https://github.com/shama) [![Twitter][twitterIcon]](https://twitter.com/shamakry)
+- [Terse Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Webpack simplified in a fluent API with presets.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
+- [SystemJS Webpack](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS.  -- *Maintainer*: `Guy Bedford` [![Github][githubicon]](https://github.com/guybedford) [![Twitter][twittericon]](https://twitter.com/guybedford)
+- [Gulp Webpack Stream](https://github.com/shama/webpack-stream) - Run webpack through a stream interface.  -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 
 [Back to top](#table-of-contents)
 
 <br>
 ### Webpack Plugins
-- [Extract Text Plugin](https://github.com/webpack/extract-text-webpack-plugin): Extract text from bundle into a file. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Compression Plugin](https://github.com/webpack/compression-webpack-plugin): Prepare assets to serve with Content-Encoding. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Offline Plugin](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for Webpack. -- _Maintainer_: `Arthur Stolyar` [![Github][githubIcon]](https://github.com/NekR) [![Twitter][twitterIcon]](https://twitter.com/nekrtemplar)
-- [Rewire Plugin](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- _Maintainer_: `Johannes Ewald` [![Github][githubIcon]](https://github.com/jhnns) [![Twitter][twitterIcon]](https://twitter.com/Jhnnns)
-- [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- _Maintainer_: `Jan Nicklas` [![Github][githubIcon]](https://github.com/jantimon) [![Twitter][twitterIcon]](https://twitter.com/jantimon)
-- [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin): Copy files and directories in webpack. -- _Maintainer_: `Len Boyette` [![Github][githubIcon]](https://github.com/kevlened) [![Twitter][twitterIcon]](https://twitter.com/kevlened)
-- [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path): Split By Path Webpack Plugin. -- _Maintainer_: `Bohdan Tkachenko` [![Github][githubIcon]](https://github.com/BohdanTkachenko) [![Twitter][twitterIcon]](https://twitter.com/bohdantkachenko)
+- [Extract Text Plugin](https://github.com/webpack/extract-text-webpack-plugin): Extract text from bundle into a file. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Compression Plugin](https://github.com/webpack/compression-webpack-plugin): Prepare assets to serve with Content-Encoding. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Offline Plugin](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for Webpack. -- *Maintainer*: `Arthur Stolyar` [![Github][githubicon]](https://github.com/NekR) [![Twitter][twittericon]](https://twitter.com/nekrtemplar)
+- [Rewire Plugin](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- *Maintainer*: `Johannes Ewald` [![Github][githubicon]](https://github.com/jhnns) [![Twitter][twittericon]](https://twitter.com/Jhnnns)
+- [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin): Simplifies creation of HTML files. -- *Maintainer*: `Jan Nicklas` [![Github][githubicon]](https://github.com/jantimon) [![Twitter][twittericon]](https://twitter.com/jantimon)
+- [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin): Copy files and directories in webpack. -- *Maintainer*: `Len Boyette` [![Github][githubicon]](https://github.com/kevlened) [![Twitter][twittericon]](https://twitter.com/kevlened)
+- [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path): Split By Path Webpack Plugin. -- *Maintainer*: `Bohdan Tkachenko` [![Github][githubicon]](https://github.com/BohdanTkachenko) [![Twitter][twittericon]](https://twitter.com/bohdantkachenko)
 
 [Back to top](#table-of-contents)
 
 <br>
 ### Webpack Tools
-- [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware): Middleware which arguments a live bundle. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Webpack Dev Server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. -- _Maintainer_: `Webpack Team` [![Github][githubIcon]](https://github.com/webpack)
-- [Webpack Merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack.  -- _Maintainer_: `Juho Vepsäläinen` [![Github][githubIcon]](https://github.com/bebraw) [![Twitter][twitterIcon]](https://twitter.com/bebraw)
-- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- _Maintainer_: `Eric Clemmons` [![Github][githubIcon]](https://github.com/ericclemmons) [![Twitter][twitterIcon]](https://twitter.com/ericclemmons)
-- [Webpack Validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi.  -- _Maintainer_: `js-dxtools Team` [![Github][githubIcon]](https://github.com/js-dxtools)
-- [Webpack Config Utils](https://github.com/kentcdodds/webpack-config-utils) - Util. to make your webpack config easier to read.  -- _Maintainer_: `Kent C. Dodds` [![Github][githubIcon]](https://github.com/kentcdodds) [![Twitter][twitterIcon]](https://twitter.com/kentcdodds)
-- [Angular2 Webpack Toolkit](https://github.com/AngularClass/webpack-toolkit) - Webpack tools and helpers for Angular 2.  -- _Maintainer_: `AngularClass` [![Github][githubIcon]](https://github.com/AngularClass) [![Twitter][twitterIcon]](https://twitter.com/AngularClass)
-- [HJS Webpack](https://github.com/HenrikJoreteg/hjs-webpack): Helpers/presets for setting up webpack with hotloading. -- _Maintainer_: `Henrik Joreteg` [![Github][githubIcon]](https://github.com/HenrikJoreteg)
+- [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware): Middleware which arguments a live bundle. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Webpack Dev Server](https://github.com/webpack/webpack-dev-server): Serves a webpack app. Updates the browser on changes. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Webpack Merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack.  -- *Maintainer*: `Juho Vepsäläinen` [![Github][githubicon]](https://github.com/bebraw) [![Twitter][twittericon]](https://twitter.com/bebraw)
+- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
+- [Webpack Validator](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi.  -- *Maintainer*: `js-dxtools Team` [![Github][githubicon]](https://github.com/js-dxtools)
+- [Webpack Config Utils](https://github.com/kentcdodds/webpack-config-utils) - Util. to make your webpack config easier to read.  -- *Maintainer*: `Kent C. Dodds` [![Github][githubicon]](https://github.com/kentcdodds) [![Twitter][twittericon]](https://twitter.com/kentcdodds)
+- [Angular2 Webpack Toolkit](https://github.com/AngularClass/webpack-toolkit) - Webpack tools and helpers for Angular 2.  -- *Maintainer*: `AngularClass` [![Github][githubicon]](https://github.com/AngularClass) [![Twitter][twittericon]](https://twitter.com/AngularClass)
+- [HJS Webpack](https://github.com/HenrikJoreteg/hjs-webpack): Helpers/presets for setting up webpack with hotloading. -- *Maintainer*: `Henrik Joreteg` [![Github][githubicon]](https://github.com/HenrikJoreteg)
 
 [Back to top](#table-of-contents)
 
@@ -223,9 +225,9 @@ _People passionate about Webpack ( In no particular order )_
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 
 ### Other
-- [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com/) podcast
+- [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
 
 [Back to top](#table-of-contents)
 
-[twitterIcon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
-[githubIcon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
+[twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
+[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
