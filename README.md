@@ -12,35 +12,37 @@ webpack takes modules with dependencies and generates static assets representing
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-webpack/blob/master/contributing.md)!
+<!--lint disable list-item-indent-->
 
 ### Table of Contents
 - [Resources](#webpack-ecosystem)
- - [Documentation](#documentation)
- - [Community](#community)
- - [Twitter Follows](#twitter)
+  - [Documentation](#documentation)
+  - [Community](#community)
+  - [Twitter Follows](#twitter)
 - [Libraries](#libraries)
- - [Loaders](#loaders)
-  - [File Type](#file-type)
-  - [Component & Template](#component--template)
-  - [Styles](#styles)
-  - [Language & Framework](#language--framework)
-  - [Utility](#utility)
-  - [Testing](#testing)
- - [Integrations](#integration-libraries)
- - [Plugins](#webpack-plugins)
- - [Tools](#webpack-tools)
+  - [Loaders](#loaders)
+    - [File Type](#file-type)
+    - [Component & Template](#component--template)
+    - [Styles](#styles)
+    - [Language & Framework](#language--framework)
+    - [Utility](#utility)
+    - [Testing](#testing)
+  - [Integrations](#integration-libraries)
+  - [Plugins](#webpack-plugins)
+  - [Tools](#webpack-tools)
 - [Research & Training](#research--training)
- - [Articles](#articles)
- - [Videos](#videos)
- - [Courses](#courses)
- - [Books](#books)
- - [Webpack Examples](#webpack-examples)
- - [Community Examples](#community-examples)
-  - [Angular](#angular)
-  - [Framework Agnostic](#framework-agnostic)
-  - [React](#react)
-- [Other](#other)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Webpack Examples](#webpack-examples)
+  - [Community Examples](#community-examples)
+    - [Angular](#angular)
+    - [Framework Agnostic](#framework-agnostic)
+    - [React](#react)
+  - [Other](#other)
 
+<!--lint disable list-item-indent-->
 <br>
 > <h2>Webpack Ecosystem</h2>
 
