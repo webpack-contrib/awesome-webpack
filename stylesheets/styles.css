@@ -122,8 +122,8 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
-  color:#393939;
+  border-left:2px solid #e5e5e5;
+  color:#777;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
