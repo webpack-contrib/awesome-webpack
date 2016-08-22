@@ -185,6 +185,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Andrew Ray | 09-Apr-16](http://blog.andrewray.me/webpack-when-to-use-and-why/) - Webpack: When To Use and Why.
 
 ### Videos
+- [Front End Center — Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU) - Intro to Webpack
 - [Sean Larkin on AngularAir | 03-Aug-16](https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs) - ngAir 75 - Webpack 2 with Sean Larkin.
 - [Eric Clemmons chat with Kent C. Dodds | 01-Jul-16](https://www.youtube.com/watch?v=PthDwpgrhmQ) - Webpack HMR.
 - [Mirko Nasato (5 Part Series) | 07-Jun-16](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p) - Angular2 with Webpack Project Setup.
