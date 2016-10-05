@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns): Webpack core team member.
 - [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry):
 - [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne): Technical Lead for [EasyMetrics](https://easymetrics.com). Webpack member.
-- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and Telerik Developer Expert.
+- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and [Telerik](https://github.com/telerik) Developer Expert.
 - [Jan Nicklas - @jantimon](https://twitter.com/jantimon):
 
 [Back to top](#table-of-contents)
