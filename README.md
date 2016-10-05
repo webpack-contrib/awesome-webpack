@@ -62,16 +62,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 *People passionate about Webpack (In no particular order)*
 
-- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn)
-- [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw)
-- [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons)
-- [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290)
-- [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds)
-- [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns)
-- [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry)
-- [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne)
-- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898)
-- [Jan Nicklas - @jantimon](https://twitter.com/jantimon)
+- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) UX Developer for Mutual of Omaha. Developer Advocate and webpack core team member.
+- [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw) from [SurviveJS](https://twitter.com/survivejs) and webpack core team member.
+- [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons) VP of Software Development at [HigherEdHQ](https://twitter.com/HigherEdHQ). Webpack member.
+- [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [Angularclass](https://angularclass.com/) and [Angular Universal](https://github.com/angular/universal). Webpack member.
+- [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds) from [PayPal Engineering](https://twitter.com/PayPalEng) and [JavaScript Air](https://twitter.com/JavaScriptAir). Webpack member.
+- [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns): Webpack core team member.
+- [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry):
+- [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne): Technical Lead for [EasyMetrics](https://easymetrics.com). Webpack member.
+- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and Telerik Developer Expert.
+- [Jan Nicklas - @jantimon](https://twitter.com/jantimon):
 
 [Back to top](#table-of-contents)
 
