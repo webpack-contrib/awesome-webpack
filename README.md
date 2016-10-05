@@ -3,7 +3,7 @@
 	<br>
 </h3>
 
-**webpack** is a **module bundler**.
+**[webpack](https://github.com/webpack/webpack)** is a **module bundler**.
 
 webpack takes modules with dependencies and generates static assets representing those modules.
 <br>
@@ -68,7 +68,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [Angularclass](https://angularclass.com) and [Angular Universal](https://github.com/angular/universal). Webpack member.
 - [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds) from [PayPal Engineering](https://twitter.com/PayPalEng) and [JavaScript Air](https://twitter.com/JavaScriptAir). Webpack member.
 - [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns): Webpack core team member.
-- [Kyle Robinson Young - @shamakry](https://twitter.com/shamakry):
 - [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne): Technical Lead for [EasyMetrics](https://easymetrics.com). Webpack member.
 - [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and [Telerik](https://github.com/telerik) Developer Expert.
 - [Jan Nicklas - @jantimon](https://twitter.com/jantimon):
