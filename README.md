@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Videos
 
+- Sean Larkin NEJS Conf | 30-Sep-16 | [Webpack: Core Concepts](https://www.youtube.com/watch?v=AZPYL30ozCY&feature=youtu.be)
 - Front End Center Webpack from First Principles | 22-Aug-16 - [Intro to Webpack](https://www.youtube.com/watch?v=WQue1AN93YU)
 - Sean Larkin on AngularAir | 03-Aug-16 - [ngAir 75 - Webpack 2 with Sean Larkin.](https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs)
 - Eric Clemmons chat with Kent C. Dodds | 01-Jul-16 - [Webpack HMR.](https://www.youtube.com/watch?v=PthDwpgrhmQ)
