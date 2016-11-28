@@ -47,10 +47,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ## Webpack Ecosystem
 
+&nbsp; &nbsp; **Remember to** [Cast your vote for upcoming Webpack features!](https://webpack.js.org/vote/)
+
+### Support Webpack
+
+- [Webpack Open Collective](https://opencollective.com/webpack) - Help support the teams ongoing development efforts.
+
 ### Documentation
 
 - [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
-- [Webpack 2.x](https://webpack.github.io/webpack.io/) - Webpack 2.x Documentation (Under development)
+- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
+
+### 
 
 ### Community
 
