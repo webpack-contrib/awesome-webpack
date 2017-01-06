@@ -219,6 +219,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - Kyle Robinson Young | 08-Jul-15 - [Getting Started with Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
 - Tasveer Singh at TorontoJS Tech Talk | 09-Apr-15 - [Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
 - Jeremy Lund at Mountain West JS | 28-Mar-15 - [Gift Wrap Your Code with Webpack.](https://www.youtube.com/watch?v=ANMN9M9LhNQ)
+Introduction to Webpack 2, what is it and how does it differ from Browserify/Grunt/Gulp/Rollup? |  Nov-4-2016 (https://www.youtube.com/watch?v=C_ZtQClrVYw)
+Webpack 2 - A full tutorial | Nov-4-2016 (https://www.youtube.com/watch?v=eWmkBNBTbMM)
 
 ### Courses
 
