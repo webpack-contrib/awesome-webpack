@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img width="355" src="https://raw.githubusercontent.com/d3viant0ne/awesome-webpack/master/media/awesome-webpack.png" alt="awesome-webpack">
+	<img width="355" src="https://raw.githubusercontent.com/d3viant0ne/awesome-webpack/master/media/awesome_webpack_branding.png" alt="awesome-webpack">
 	<br>
 </h3>
 
@@ -264,7 +264,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [ReactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux from [Ken Ding](https://github.com/choonkending).
 - [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon).
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
-- [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum requirements for a production ready universal react application.
+- [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
 
 ### Other
 
