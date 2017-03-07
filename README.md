@@ -198,10 +198,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Articles
 
+- Mark Erikson | 07-Mar-17 - [Declaratively Rendering Earth in 3D, Part 1: Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
 - Joseph Zimmerman | 2-Feb-17 - [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 - Jamund Ferguson | 22-Jul-16 - [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
 - Sean T. Larkin | 21-Jul-16 - [Learn and Debug webpack with Chrome Dev Tools!.](https://medium.com/webpack/webpack-bits-learn-and-debug-webpack-with-chrome-dev-tools-da1c5b19554#.gpoentuxe)
 - Raja Rao DV | 10-Apr-16 - [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
+- Andrew Ray | 09-Apr-16 - [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
 - Jonathan Creamer | 25-Feb-16 - [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
 - Grgur Grisogono | 15-Feb-16 - [Webpack 2 Tree Shaking Configuration.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
 - Ilya Zayats | 07-Feb-16 - [How to split your apps by routes with Webpack.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
@@ -212,7 +214,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - Nader Dabit | 07-Sept-15 - [Beginner’s guide to Webpack.](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq)
 - Jonathan Creamer | 02-Sept-15 - [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
 - Maxime Fabre | 16-Oct-15 - [Webpack your bags.](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- Andrew Ray | 09-Apr-16 - [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 ### Videos
 
