@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Serverless Webpack](https://github.com/elastic-coders/serverless-webpack) - Serverless plugin to bundle your lambdas. -- *Maintainer*: `Elastic Coders` [![Github][githubicon]](https://github.com/elastic-coders) [![Twitter][twittericon]](https://twitter.com/ElasticCoders)
 - [Prerender SPA](https://github.com/chrisvfritz/prerender-spa-plugin) - Framework-agnostic static site generation for SPAs. -- *Maintainer*: `Chris Fritz` [![Github][githubicon]](https://github.com/chrisvfritz) [![Twitter][twittericon]](https://twitter.com/chrisvfritz)
 - [SVG Sprite Webpack Plugin](https://github.com/TodayTix/svg-sprite-webpack-plugin) - Plugin for SVG sprites and icons. -- *Maintainer*: `Jeremy Tice` ([`TodayTix`](https://github.com/TodayTix)) [![Github][githubicon]](https://github.com/jetpacmonkey) [![Twitter][twittericon]](https://twitter.com/jetpacmonkey)
+- [Imagemin Webpack Plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Minify images with Imagemin. -- *Maintainer*: `Gregory Benner` [![Github][githubicon]](https://github.com/Klathmon) [![Twitter][twittericon]](https://twitter.com/Klathmon)
 
 [Back to top](#table-of-contents)
 
