@@ -182,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Static Site Generator Webpack Plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator. -- *Maintainer*: `Mark Dalgleish` [![Github][githubicon]](https://github.com/markdalgleish)
 - [SVG Sprite Webpack Plugin](https://github.com/TodayTix/svg-sprite-webpack-plugin) - Plugin for SVG sprites and icons. -- *Maintainer*: `Jeremy Tice` ([`TodayTix`](https://github.com/TodayTix)) [![Github][githubicon]](https://github.com/jetpacmonkey) [![Twitter][twittericon]](https://twitter.com/jetpacmonkey)
 - [Imagemin Webpack Plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Minify images with Imagemin. -- *Maintainer*: `Gregory Benner` [![Github][githubicon]](https://github.com/Klathmon) [![Twitter][twittericon]](https://twitter.com/Klathmon)
+- [Sass Webpack Plugin](https://github.com/jalkoby/sass-webpack-plugin) - SASS plugin for webpack. -- *Maintainer*: `Sergey Pchelintsev`  [![Github][githubicon]](https://github.com/jalkoby) [![Twitter][twittericon]](https://twitter.com/jalkoby)
 
 [Back to top](#table-of-contents)
 
