@@ -253,6 +253,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Books
 
 - [SurviveJS - Webpack](http://survivejs.com/webpack/introduction): Free book guiding from a webpack apprentice to master. Covers development, production, and advanced topics.
+- [Webpack 2 - A Build Tool for Modern JavaScript Applications](https://leanpub.com/webpack2): Helps beginner and intermediate users understand and fully utilize the power of Webpack in their projects.
 
 ### Webpack Examples
 
