@@ -182,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Static Site Generator Webpack Plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator. -- *Maintainer*: `Mark Dalgleish` [![Github][githubicon]](https://github.com/markdalgleish)
 - [SVG Sprite Webpack Plugin](https://github.com/TodayTix/svg-sprite-webpack-plugin) - Plugin for SVG sprites and icons. -- *Maintainer*: `Jeremy Tice` ([`TodayTix`](https://github.com/TodayTix)) [![Github][githubicon]](https://github.com/jetpacmonkey) [![Twitter][twittericon]](https://twitter.com/jetpacmonkey)
 - [Imagemin Webpack Plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Minify images with Imagemin. -- *Maintainer*: `Gregory Benner` [![Github][githubicon]](https://github.com/Klathmon) [![Twitter][twittericon]](https://twitter.com/Klathmon)
+- [Prepack Webpack Plugin](https://github.com/gajus/prepack-webpack-plugin) - A webpack plugin for prepack. -- *Maintainer*: `Gajus Kuizinas` [![Github][githubicon]](https://github.com/gajus)
 - [Progressive Web App Manifest Generator](https://github.com/arthurbergmz/webpack-pwa-manifest) - Simplifies the creation process of a custom manifest for your Progressive Web App, with icon resizing support. -- *Maintainer*: `Arthur Bergamaschi` [![Github][githubicon]](https://github.com/arthurbergmz)
 
 [Back to top](#table-of-contents)
