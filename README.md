@@ -292,6 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
+- [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
 
 [Back to top](#table-of-contents)
 
