@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Icon Font Loader](https://www.npmjs.com/package/icons-loader) - Generates an iconfont from SVG dependencies.  -- *Maintainer*: `Mike Vercoelen` [![Github][githubicon]](https://github.com/mikevercoelen)
 - [Modernizr Loader](https://www.npmjs.com/package/modernizr-loader) - Get your modernizr build bundled with webpack. -- *Maintainer*: `Peerigon Devs` [![Github][githubicon]](https://github.com/peerigon)
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) - AOT capable NgModule lazy loading using angular router -- *Maintainer*: `Shlomi Assaf` [![Github][githubicon]](https://github.com/shlomiassaf) [![Twitter][twittericon]](https://twitter.com/shlomiassaf)
+- [Shell Loader](https://github.com/localjo/shell-loader) -  Run an arbitrary shell script on source files. -- *Maintainer*: `Jo Sprague` [![Github][githubicon]](https://github.com/localjo)
 
 #### Testing
 
