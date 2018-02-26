@@ -131,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles in your Webpack bundle. -- *Maintainer*: `ShakaCode Team` [![Github][githubicon]](https://github.com/shakacode) [![Twitter][twittericon]](https://twitter.com/shakacode)
 - [PostHTML Loader](https://github.com/posthtml/posthtml): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
 - [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader): Webpack loader for the Elm programming language. -- *Maintainer*: `Richard Feldman` [![Github][githubicon]](https://github.com/rtfeldman) [![Twitter][twittericon]](https://twitter.com/rtfeldman)
+- [AssemblyScript & TypeScript Loader](https://github.com/SinaMFE/assemblyscript-typescript-loader): A webpack loader for compiles typescript with AssemblyScript and bundles it as wasm or btyes string. -- *Maintainer*: `SinaMFE Team` [![Github][githubicon]](https://github.com/SinaMFE) 
 
 #### Utility
 
