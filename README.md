@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 *People passionate about Webpack (In no particular order)*
 
-- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) UX for [Mutual of Omaha](https://github.com/mutualofomaha). Developer Advocate and webpack core team member.
+- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) TPM at [Microsoft](https://twitter.com/MSEdgeDev). Developer Advocate and webpack core team member.
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw) from [SurviveJS](https://twitter.com/survivejs) and webpack core team member.
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons) VP of Software Development at [HigherEdHQ](https://twitter.com/HigherEdHQ). Webpack member.
 - [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [AngularClass](https://angularclass.com), [AngularAir](https://angularair.com) and [Angular Universal](https://github.com/angular/universal). Webpack member.
@@ -98,6 +98,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [json Loader](https://github.com/webpack/json-loader): json loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [mermaid Loader](https://github.com/popul/mermaid-loader): [mermaid](http://knsv.github.io/mermaid/) loader module (diagrams) for Webpack. -- *Maintainer*: `Paul Musso` [![Github][githubicon]](https://github.com/popul)
 - [wasm loader](https://github.com/ballercat/wasm-loader): wasm binary loader module for Webpack. -- *Maintainer*: `Arthur Buldauskas` [![Github][githubicon]](https://github.com/wasm-loader)
+- [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack): Image minimizing loader + plugin for webpack. -- *Maintainer*: `itgalaxy inc.` [![Github][githubicon]](https://github.com/itgalaxy)
+- [Bin Exec Loader](https://github.com/milewski/bin-exec-loader): Pipe any file through any binary. -- *Maintainer*: `Rafael Milewski` [![Github][githubicon]](https://github.com/milewski)
 
 #### Component & Template
 
@@ -109,6 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader) - Angular1 Template Loader.  -- *Maintainer*: `Toby Rahilly` [![Github][githubicon]](https://github.com/WearyMonkey)
 - [ngInlineStylesLoader](https://github.com/seveves/ng-inline-styles-loader): Optimizes inlined css of angular components. -- *Maintainer*: `Severin Friede` [![Github][githubicon]](https://github.com/seveves)
 - [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
+- [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader) - Loader for Polymer elements. -- *Maintainers*: `Rob Dodson` [![Github][githubicon]](https://github.com/robdodson) - `Chad Killingsworth` [![Github][githubicon]](https://github.com/ChadKillingsworth) - `Bryan Coulter` [![Github][githubicon]](https://github.com/bryandcoulter)
 
 #### Styles
 
@@ -155,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Integration Libraries
 
+- [Dotenv Webpack](https://github.com/mrsteele/dotenv-webpack): Compiles environment variables into your bundle via dotenv. -- *Maintainer*: `Matthew Steele` [![Github][githubicon]](https://github.com/mrsteele) [![Twitter][twittericon]](https://twitter.com/Matt_R_Steele)
 - [Terse Webpack](https://github.com/ericclemmons/terse-webpack) - Webpack simplified in a fluent API with presets.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
 - [SystemJS Webpack](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS.  -- *Maintainer*: `Guy Bedford` [![Github][githubicon]](https://github.com/guybedford) [![Twitter][twittericon]](https://twitter.com/guybedford)
 - [Gulp Webpack Stream](https://github.com/shama/webpack-stream) - Run webpack through a stream interface.  -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
@@ -188,6 +192,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Generate package.json Plugin](https://github.com/lostpebble/generate-package-json-webpack-plugin) - Limit dependencies in a deployment `package.json` to only those that are actually being used by your bundle. -- *Maintainer*: `Paul Myburgh` [![Github][githubicon]](https://github.com/lostpebble)
 - [Progressive Web App Manifest](https://github.com/arthurbergmz/webpack-pwa-manifest) - PWA manifest manager and generator. -- *Maintainer*: `Arthur A. Bergamaschi` [![Github][githubicon]](https://github.com/arthurbergmz)
 - [Friendly errors](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them. -- *Maintainer*: `Geoffroy Warin` [![Github][githubicon]](https://github.com/geowarin)
+- [FileManager Webpack Plugin](https://github.com/gregnb/filemanager-webpack-plugin) - Copy, move, delete files and directories before and after Webpack builds -- *Maintainer*: `Gregory Nowakowski` [![Github][githubicon]](https://github.com/gregnb)
+- [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - Warns you when multiple versions of the same package exist in your bundle -- *Maintainer*: `Darren Scerri` [![Github][githubicon]](https://github.com/darrenscerri)
+
 
 [Back to top](#table-of-contents)
 
@@ -221,8 +228,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - Raja Rao DV | 10-Apr-16 - [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
 - Andrew Ray | 09-Apr-16 - [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
 - Jonathan Creamer | 25-Feb-16 - [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
-- Grgur Grisogono | 15-Feb-16 - [Webpack 2 Tree Shaking Configuration.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
-- Ilya Zayats | 07-Feb-16 - [How to split your apps by routes with Webpack.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
+- Grgur Grisogono | 15-Feb-16 - [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
+- Ilya Zayats | 07-Feb-16 - [How to split your apps by routes with Webpack.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
 - Sebastian De Deyne | 04-Feb-16 - [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
 - Jonathan Creamer | 10-Jan-16 - [Advanced WebPack Part 2 - Code Splitting.](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting)
 - Andy Ccs | 02-Jan-16 - [Webpack and Docker for Development and Deployment.](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4)
@@ -289,6 +296,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code from [Benoit Vallon](https://github.com/benoitvallon).
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
+- [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
 
 ### Other
 
