@@ -191,10 +191,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Modules CDN Webpack Plugin](https://github.com/mastilver/modules-cdn-webpack-plugin) - Dynamically load your modules from a CDN. -- *Maintainer*: `Thomas Sileghem` [![Github][githubicon]](https://github.com/mastilver)
 - [Generate package.json Plugin](https://github.com/lostpebble/generate-package-json-webpack-plugin) - Limit dependencies in a deployment `package.json` to only those that are actually being used by your bundle. -- *Maintainer*: `Paul Myburgh` [![Github][githubicon]](https://github.com/lostpebble)
 - [Progressive Web App Manifest](https://github.com/arthurbergmz/webpack-pwa-manifest) - PWA manifest manager and generator. -- *Maintainer*: `Arthur A. Bergamaschi` [![Github][githubicon]](https://github.com/arthurbergmz)
+- [Friendly errors](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them. -- *Maintainer*: `Geoffroy Warin` [![Github][githubicon]](https://github.com/geowarin)
 - [FileManager Webpack Plugin](https://github.com/gregnb/filemanager-webpack-plugin) - Copy, move, delete files and directories before and after Webpack builds -- *Maintainer*: `Gregory Nowakowski` [![Github][githubicon]](https://github.com/gregnb)
 - [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - Warns you when multiple versions of the same package exist in your bundle -- *Maintainer*: `Darren Scerri` [![Github][githubicon]](https://github.com/darrenscerri)
-
-
 
 
 [Back to top](#table-of-contents)
