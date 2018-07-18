@@ -301,7 +301,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
-- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) - A React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate
+- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) - A React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate.
+
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
