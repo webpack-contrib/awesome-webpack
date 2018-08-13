@@ -101,6 +101,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack): Image minimizing loader + plugin for webpack. -- *Maintainer*: `itgalaxy inc.` [![Github][githubicon]](https://github.com/itgalaxy)
 - [Bin Exec Loader](https://github.com/milewski/bin-exec-loader): Pipe any file through any binary. -- *Maintainer*: `Rafael Milewski` [![Github][githubicon]](https://github.com/milewski)
 - [GraphQL Loader](https://github.com/stephen/graphql-loader): `.graphql` document loader. -- *Maintainer*: `Stephen Wan` [![Github][githubicon]](https://github.com/stephen)
+- [C/C++ Loader](https://github.com/ClickSimply/cpp-wasm-loader): Load native C/C++ files with minimal bundle bloat. -- *Maintainer*: `Scott Lott` [![Github][githubicon]](https://github.com/ClickSimply)
 
 #### Component & Template
 
