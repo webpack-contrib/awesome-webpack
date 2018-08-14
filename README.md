@@ -290,6 +290,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Framework Agnostic
 
 - [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check branches).  from [Kent C. Dodds](https://github.com/kentcdodds).
+- [modern-webpack-starter](https://github.com/johndatserakis/modern-webpack-starter) - A modern JavaScript starter using Webpack 4. Made in a simple way - good for learning or starting a new project without having to rollout cli-auto-builders from [John Datserakis](https://github.com/johndatserakis).
 
 #### React
 
