@@ -311,6 +311,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Visual config tool for webpack](https://webpack.jakoblind.no/) - A visual tool for creating webpack configs in your browser
 
 [Back to top](#table-of-contents)
 
