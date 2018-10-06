@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader) - Loader for Polymer elements. -- *Maintainers*: `Rob Dodson` [![Github][githubicon]](https://github.com/robdodson) - `Chad Killingsworth` [![Github][githubicon]](https://github.com/ChadKillingsworth) - `Bryan Coulter` [![Github][githubicon]](https://github.com/bryandcoulter)
 - [Tag Loader](https://github.com/riot/tag-loader) - Loader for Riot tag files. -- *Maintainer*: `Riot Team` [![Github][githubicon]](https://github.com/riot) [![Twitter][twittericon]](https://twitter.com/riotjs_)
+- [Twig Loader](https://github.com/zimmo-be/twig-loader) - Twig template loader for Webpack. -- *Maintainer*: `Zimmo.be Team` [![Github][githubicon]](https://github.com/zimmo-be)
 
 #### Styles
 
