@@ -201,6 +201,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - Warns you when multiple versions of the same package exist in your bundle -- *Maintainer*: `Darren Scerri` [![Github][githubicon]](https://github.com/darrenscerri)
 - [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) - A plugin to remove unused css with purgecss -- *Maintainer*: `Floriel Fedry` [![Github][githubicon]](https://github.com/Ffloriel)
 - [Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin) - Detect modules with circular dependencies when bundling -- *Maintainer*: `Aaron Ackerman` [![Github][githubicon]](https://github.com/aackerman)
+- [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier) - Display OS-level notifications for build errors and warnings. -- *Maintainer*: `Rocco Cataldo` [![Github][githubicon]](https://github.com/roccoc)
 
 [Back to top](#table-of-contents)
 
