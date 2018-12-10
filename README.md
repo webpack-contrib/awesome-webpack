@@ -316,6 +316,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Programming Community Curated Resources for learning WebPack](https://hackr.io/tutorials/learn-webpack)
 
 [Back to top](#table-of-contents)
 
