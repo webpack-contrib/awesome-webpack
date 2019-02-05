@@ -314,6 +314,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
+- [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - With Styled Components using Express with compression from [Erik Engi](https://github.com/kireerik).
 
 ### Other
 
