@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader) - Loader for Polymer elements. -- *Maintainers*: `Rob Dodson` [![Github][githubicon]](https://github.com/robdodson) - `Chad Killingsworth` [![Github][githubicon]](https://github.com/ChadKillingsworth) - `Bryan Coulter` [![Github][githubicon]](https://github.com/bryandcoulter)
 - [Tag Loader](https://github.com/riot/tag-loader) - Loader for Riot tag files. -- *Maintainer*: `Riot Team` [![Github][githubicon]](https://github.com/riot) [![Twitter][twittericon]](https://twitter.com/riotjs_)
+- [Twig Loader](https://github.com/zimmo-be/twig-loader) - Twig template loader. -- *Maintainer*: `Zimmo.be Team` [![Github][githubicon]](https://github.com/zimmo-be)
 
 #### Styles
 
@@ -125,6 +126,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 - [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader): Isomorphic CSS style loader for Webpack. -- *Maintainer*: `Kriasoft Team` [![Github][githubicon]](https://github.com/kriasoft) [![Twitter][twittericon]](https://twitter.com/kriasoft)
+- [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): 
+Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][githubicon]](https://github.com/webpack-contrib)
 
 #### Language & Framework
 
@@ -132,7 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Awesome TypeScript Loader](https://github.com/s-panferov/awesome-typescript-loader): Awesome TS loader for Webpack. -- *Maintainer*: `Stanislav Panferov` [![Github][githubicon]](https://github.com/s-panferov) [![Twitter][twittericon]](https://twitter.com/babel)
 - [Coffee Loader](https://github.com/webpack/coffee-loader): Coffee loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader): Load Bootstrap styles in your Webpack bundle. -- *Maintainer*: `ShakaCode Team` [![Github][githubicon]](https://github.com/shakacode) [![Twitter][twittericon]](https://twitter.com/shakacode)
-- [PostHTML Loader](https://github.com/posthtml/posthtml): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
+- [PostHTML Loader](https://github.com/posthtml/posthtml-loader): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
 - [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader): Webpack loader for the Elm programming language. -- *Maintainer*: `Richard Feldman` [![Github][githubicon]](https://github.com/rtfeldman) [![Twitter][twittericon]](https://twitter.com/rtfeldman)
 - [Fengari Loader](https://github.com/fengari-lua/fengari-loader/): Run Lua code using [Fengari](https://fengari.io). -- *Maintainer*: `Daurnimator` [![Github][githubicon]](https://github.com/daurnimator) [![Twitter][twittericon]](https://twitter.com/daurnimator)
 
@@ -152,6 +155,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Icons Loader](https://www.npmjs.com/package/icons-loader) - Generates an iconfont from SVG dependencies.  -- *Maintainer*: `Mike Vercoelen` [![Github][githubicon]](https://github.com/mikevercoelen)
 - [Modernizr Loader](https://www.npmjs.com/package/modernizr-loader) - Get your modernizr build bundled with webpack. -- *Maintainer*: `Peerigon Devs` [![Github][githubicon]](https://github.com/peerigon)
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) - AOT capable NgModule lazy loading using angular router -- *Maintainer*: `Shlomi Assaf` [![Github][githubicon]](https://github.com/shlomiassaf) [![Twitter][twittericon]](https://twitter.com/shlomiassaf)
+- [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) - Compile message catalogs on the fly for jsLingui, i18n library -- *Maintainer*: `Tomáš Ehrlich` [![Github][githubicon]](https://github.com/tricoder42) [![Twitter][twittericon]](https://twitter.com/tomas_ehrlich)
+- [Shell Loader](https://github.com/localjo/shell-loader) -  Run an arbitrary shell script on source files. -- *Maintainer*: `Jo Sprague` [![Github][githubicon]](https://github.com/localjo)
 
 #### Testing
 
@@ -170,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Webpack Blocks](https://github.com/andywer/webpack-blocks) - Configure webpack using functional feature blocks.  -- *Maintainer*: `Andy Wermke` [![Github][githubicon]](https://github.com/andywer) [![Twitter][twittericon]](https://twitter.com/andywritescode)
 - [Webpacker](https://github.com/rails/webpacker) - Offical webpack gem for integration into ruby on rails projects.  -- *Maintainer*: `Rails` [![Github][githubicon]](https://github.com/rails)
 - [WebpackAspnetMiddleware](https://github.com/frankwallis/WebpackAspnetMiddleware) - Development middleware for ASP.NET 5.  -- *Maintainer*: `Frank Wallis` [![Github][githubicon]](https://github.com/frankwallis)
+- [Consul Key/Value Webpack](https://github.com/marlonmleite/consul-env-webpack-plugin): Compiles environment variables into your bundle via [Consul KV-store](https://www.consul.io/api/kv.html). -- *Maintainer*: `Marlon Maxwel` [![Github][githubicon]](https://github.com/marlonmleite)
 
 [Back to top](#table-of-contents)
 
@@ -202,6 +208,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) - A plugin to remove unused css with purgecss -- *Maintainer*: `Floriel Fedry` [![Github][githubicon]](https://github.com/Ffloriel)
 - [Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin) - Detect modules with circular dependencies when bundling -- *Maintainer*: `Aaron Ackerman` [![Github][githubicon]](https://github.com/aackerman)
 - [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin) - A webpack plugin to dynamically inject code into the bundle. -- *Maintainer*: `Adam Dierkens` [![Github][githubicon]](https://github.com/adierkens)
+- [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) - control `publicPath` of dynamically loaded resources at runtime  -- *Maintainer*: `Andrew Goldis` [![Github][githubicon]](https://github.com/agoldis)
+- [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier) - Display OS-level notifications for build errors and warnings. -- *Maintainer*: `Rocco Cataldo` [![Github][githubicon]](https://github.com/roccoc)
+- [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - Hot reloading while developing Chrome extensions -- *Maintainer*: `Rubens P. G. Cavalcante` [![Github][githubicon]](https://github.com/rubenspgcavalcante) [![Twitter][twittericon]](https://twitter.com/rubenspgc)
 
 [Back to top](#table-of-contents)
 
@@ -220,6 +229,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Neutrino](https://github.com/mozilla-neutrino/neutrino-dev): Combines the power of Webpack with the simplicity of presets. -- *Maintainer*: `Eli Perelman` [![Github][githubicon]](https://github.com/eliperelman)
 - [Webpack Chain](https://github.com/mozilla-neutrino/webpack-chain): A chaining API to generate and simplify the mod. of Webpack 2 configurations. -- *Maintainer*: `Eli Perelman` [![Github][githubicon]](https://github.com/eliperelman)
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - Measures the speed of your webpack plugins and loaders.  -- *Maintainer*: `Stephen Cook` [![Github][githubicon]](https://github.com/stephencookdev)
+- [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - Webpack bundle analysis on every commit, report webpack stats to every pull request.
 
 
 [Back to top](#table-of-contents)
@@ -228,6 +238,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Articles
 
+- Andrew Welch | 23-Oct-18 - [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
 - Gábor Soós | 24-Apr-17 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
 - Mark Erikson | 07-Mar-17 - [Declaratively Rendering Earth in 3D, Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
 - Joseph Zimmerman | 2-Feb-17 - [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
@@ -265,8 +276,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Courses
 
 - [Webpack for Everyone](https://laracasts.com/series/webpack-for-everyone) - Free Laracasts series by [Jeffrey Way](http://twitter.com/jeffrey_way)
-- [Webpack 4 Fundamentals](https://frontendmasters.com/courses/performance-webpack/) - Brief introduction about Webpack fundamentals by [Sean Larkin](https://twitter.com/thelarkinn)
-- [Web Performance with Webpack](https://frontendmasters.com/courses/webpack-fundamentals/) - Solving common web performace problems using Webpack by [Sean Larkin](https://twitter.com/thelarkinn)
+- [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/) - Brief introduction about Webpack fundamentals by [Sean Larkin](https://twitter.com/thelarkinn)
+- [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) - Solving common web performace problems using Webpack by [Sean Larkin](https://twitter.com/thelarkinn)
 - [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) - Egghead.io playlist of a few videos by [Kent C. Dodds](https://twitter.com/kentcdodds) (the first is free).
 - [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) - Egghead.io course by [Kent C. Dodds](https://twitter.com/kentcdodds)
 - [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) - Egghead.io course by [Kent C. Dodds](https://twitter.com/kentcdodds) (advanced)
@@ -294,6 +305,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 #### Framework Agnostic
 
+- [Annotated webpack 4 Config](https://github.com/nystudio107/annotated-webpack-4-config) - This is the companion github repo for the [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) article.
 - [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc) - Repo used to teach webpack. (Check branches).  from [Kent C. Dodds](https://github.com/kentcdodds).
 
 #### React
@@ -307,11 +319,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally](https://github.com/ctrlplusb/react-universally) - A starter kit giving you the minimum for a production ready universal react application.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
+- [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - With Styled Components using Express with compression from [Erik Engi](https://github.com/kireerik).
 
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Visual config tool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
 
 [Back to top](#table-of-contents)
 
