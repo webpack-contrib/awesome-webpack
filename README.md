@@ -126,8 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Less Loader](https://github.com/webpack/less-loader): Less loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 - [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader): Isomorphic CSS style loader for Webpack. -- *Maintainer*: `Kriasoft Team` [![Github][githubicon]](https://github.com/kriasoft) [![Twitter][twittericon]](https://twitter.com/kriasoft)
-- [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): 
-Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][githubicon]](https://github.com/webpack-contrib)
+- [Minify CSS-in-JS Loader](https://github.com/zaaack/minify-cssinjs-loader): RegExp-based minify CSS-in-JS loader for Webpack, don't need babel. -- *Maintainer*: `Zack Young` [![Github][githubicon]](https://github.com/zaaack) [![Twitter][twittericon]](https://twitter.com/ZaaackYoung)
 
 #### Language & Framework
 
@@ -211,6 +210,9 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) - control `publicPath` of dynamically loaded resources at runtime  -- *Maintainer*: `Andrew Goldis` [![Github][githubicon]](https://github.com/agoldis)
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier) - Display OS-level notifications for build errors and warnings. -- *Maintainer*: `Rocco Cataldo` [![Github][githubicon]](https://github.com/roccoc)
 - [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - Hot reloading while developing Chrome extensions -- *Maintainer*: `Rubens P. G. Cavalcante` [![Github][githubicon]](https://github.com/rubenspgcavalcante) [![Twitter][twittericon]](https://twitter.com/rubenspgc)
+- [Htmls Webpack Plugin](https://github.com/zaaack/htmls-webpack-plugin): Simple and fast multiple-htmls-generating plugin for webpack. -- *Maintainer*: `Zack Young` [![Github][githubicon]](https://github.com/zaaack) [![Twitter][twittericon]](https://twitter.com/ZaaackYoung)
+- [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
+Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][githubicon]](https://github.com/webpack-contrib)
 - [build-hash-webpack-plugin](https://github.com/Cosium/build-hash-webpack-plugin) For each build, Webpack generates an in-memory hash allowing to know if two build outputs are the same or not. This plugin writes the described build hash in a separate json file. -- *Maintainer*: `Réda Housni Alaoui` [![Github][githubicon]](https://github.com/reda-alaoui) [![Twitter][twittericon]](https://twitter.com/alaouirda)
 
 [Back to top](#table-of-contents)
