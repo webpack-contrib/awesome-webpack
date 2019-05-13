@@ -213,7 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Htmls Webpack Plugin](https://github.com/zaaack/htmls-webpack-plugin): Simple and fast multiple-htmls-generating plugin for webpack. -- *Maintainer*: `Zack Young` [![Github][githubicon]](https://github.com/zaaack) [![Twitter][twittericon]](https://twitter.com/ZaaackYoung)
 - [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
 Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][githubicon]](https://github.com/webpack-contrib)
-
+- [build-hash-webpack-plugin](https://github.com/Cosium/build-hash-webpack-plugin) For each build, Webpack generates an in-memory hash allowing to know if two build outputs are the same or not. This plugin writes the described build hash in a separate json file. -- *Maintainer*: `Réda Housni Alaoui` [![Github][githubicon]](https://github.com/reda-alaoui) [![Twitter][twittericon]](https://twitter.com/alaouirda)
 
 [Back to top](#table-of-contents)
 
