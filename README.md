@@ -214,6 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
 Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][githubicon]](https://github.com/webpack-contrib)
 - [build-hash-webpack-plugin](https://github.com/Cosium/build-hash-webpack-plugin) For each build, Webpack generates an in-memory hash allowing to know if two build outputs are the same or not. This plugin writes the described build hash in a separate json file. -- *Maintainer*: `Réda Housni Alaoui` [![Github][githubicon]](https://github.com/reda-alaoui) [![Twitter][twittericon]](https://twitter.com/alaouirda)
+- [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - run any shell commands before or after webpack builds -- *Maintainer*: `David Kwon` [![Github][githubicon]](https://github.com/tienne)
 
 [Back to top](#table-of-contents)
 
