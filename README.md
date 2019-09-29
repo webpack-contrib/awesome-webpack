@@ -219,6 +219,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - run any shell commands before or after webpack builds -- *Maintainer*: `David Kwon` [![Github][githubicon]](https://github.com/tienne)
 - [Dynamic Vendor Webpack Plugin](https://github.com/bios21/dynamic-vendor-webpack-plugin) - Gives you a way to import vendors with dynamic variable and specific code splitting. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
 - [Define Variable Webpack Plugin](https://github.com/bios21/define-variable-webpack-plugin) - Enhancement of DefinePlugin to store defined things in actual variables. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
+- [Replace Stylesheet Variable Webpack Plugin](https://github.com/eaTong/webpack-stylesheet-variable-replacer-plugin) - easy to change css variable with only one function in production mode. -- *Maintainer* `eaTong` [![Github][githubicon]](https://github.com/eaTong)
 
 [Back to top](#table-of-contents)
 
