@@ -142,7 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 #### Utility
 
 - [Babel Loader](https://github.com/babel/babel-loader): Webpack plugin for Babel. -- *Maintainer*: `Babel Team` [![Github][githubicon]](https://github.com/babel) [![Twitter][twittericon]](https://twitter.com/babel)
-- [ESLint Loader](https://github.com/MoOx/eslint-loader): ESLint loader for Webpack. -- *Maintainer*: `Maxime Thirouin` [![Github][githubicon]](https://github.com/MoOx) [![Twitter][twittericon]](https://twitter.com/MoOx)
+- [ESLint Loader](https://github.com/webpack/eslint-loader): A ESlint loader for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [JSHint Loader](https://github.com/webpack/jshint-loader): JSHint loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [JSCS Loader](https://github.com/unindented/jscs-loader): Run your source through the JSCS style checker. -- *Maintainer*: `Daniel Perez Alvarez` [![Github][githubicon]](https://github.com/unindented)
 - [Bundle Loader](https://github.com/webpack/bundle-loader): Bundle loader for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
