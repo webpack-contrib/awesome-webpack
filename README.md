@@ -220,6 +220,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Dynamic Vendor Webpack Plugin](https://github.com/bios21/dynamic-vendor-webpack-plugin) - Gives you a way to import vendors with dynamic variable and specific code splitting. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
 - [Define Variable Webpack Plugin](https://github.com/bios21/define-variable-webpack-plugin) - Enhancement of DefinePlugin to store defined things in actual variables. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
 - [Shell Script Webpack Plugin](https://github.com/drewloomer/hook-shell-script-webpack-plugin) - A plugin for running arbitrary shell scripts when [compiler hooks](https://webpack.js.org/api/compiler-hooks/) are triggered. -- *Maintainer* `Drew Loomer` [![Github][githubicon]](https://github.com/drewloomer) [![Twitter][twittericon]](https://twitter.com/drewloomer)
+- [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 
 [Back to top](#table-of-contents)
 
