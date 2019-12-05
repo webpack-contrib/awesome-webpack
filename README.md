@@ -78,7 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and [Telerik](https://github.com/telerik) Developer Expert.
 - [Kees Kluskens - @keeskluskens](https://twitter.com/keeskluskens): - Software Engineer at [Code Yellow](https://codeyellow.nl),  Webpack core team member.
 
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 
 ## Libraries
@@ -164,7 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Karma Webpack](https://github.com/webpack/karma-webpack): Use Karma with Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Istanbul Webpack plugin](https://github.com/DxCx/webpack-istanbul-plugin): Use Istanbul instrumenter for the whole pack. -- *Maintainer*: `Hagai Cohen` [![Github][githubicon]](https://github.com/DxCx)
 
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 ### Integration Libraries
 
@@ -177,7 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [WebpackAspnetMiddleware](https://github.com/frankwallis/WebpackAspnetMiddleware) - Development middleware for ASP.NET 5.  -- *Maintainer*: `Frank Wallis` [![Github][githubicon]](https://github.com/frankwallis)
 - [Consul Key/Value Webpack](https://github.com/marlonmleite/consul-env-webpack-plugin): Compiles environment variables into your bundle via [Consul KV-store](https://www.consul.io/api/kv.html). -- *Maintainer*: `Marlon Maxwel` [![Github][githubicon]](https://github.com/marlonmleite)
 
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 ### Webpack Plugins
 
@@ -221,7 +221,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Define Variable Webpack Plugin](https://github.com/bios21/define-variable-webpack-plugin) - Enhancement of DefinePlugin to store defined things in actual variables. -- *Maintainer* `Lilian Saget-Lethias` [![Github][githubicon]](https://github.com/bios21) [![Twitter][twittericon]](https://twitter.com/lsagetlethias)
 - [Shell Script Webpack Plugin](https://github.com/drewloomer/hook-shell-script-webpack-plugin) - A plugin for running arbitrary shell scripts when [compiler hooks](https://webpack.js.org/api/compiler-hooks/) are triggered. -- *Maintainer* `Drew Loomer` [![Github][githubicon]](https://github.com/drewloomer) [![Twitter][twittericon]](https://twitter.com/drewloomer)
 
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 ### Webpack Tools
 
@@ -241,8 +241,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - Webpack bundle analysis on every commit, report webpack stats to every pull request.
 - [BundleStats](https://github.com/bundle-stats/bundle-stats) - Generates bundle report(sizes, assets, modules) and compares the results between different builds. -- *Maintainer*: `Vio` [![Github][githubicon]](https://github.com/vio) [![Twitter][twittericon]](https://twitter.com/vio)
 
-
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 ## Research & Training
 
@@ -341,7 +340,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
 - [Visual config tool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
 
-[Back to top](#table-of-contents)
+[Back to top](#contents)
 
 [twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
 [githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
