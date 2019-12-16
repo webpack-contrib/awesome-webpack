@@ -157,6 +157,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) - AOT capable NgModule lazy loading using angular router -- *Maintainer*: `Shlomi Assaf` [![Github][githubicon]](https://github.com/shlomiassaf) [![Twitter][twittericon]](https://twitter.com/shlomiassaf)
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) - Compile message catalogs on the fly for jsLingui, i18n library -- *Maintainer*: `Tomáš Ehrlich` [![Github][githubicon]](https://github.com/tricoder42) [![Twitter][twittericon]](https://twitter.com/tomas_ehrlich)
 - [Shell Loader](https://github.com/localjo/shell-loader) -  Run an arbitrary shell script on source files. -- *Maintainer*: `Jo Sprague` [![Github][githubicon]](https://github.com/localjo)
+- [EXIF Loader](https://github.com/herschel666/exif-loader) - Extract EXIF- & IPTC-data from your JPGs during build-time. -- *Maintainer*: `Emanuel Kluge` [![Github][githubicon]](https://github.com/herschel666/exif-loader) [![Twitter][twittericon]](https://twitter.com/herschel_r)
 
 #### Testing
 
