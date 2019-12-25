@@ -275,6 +275,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 
 ### Videos
 
+- Sean Larkin JS Kongress | Apr-2-2019 - [Everything’s a plugin: Understanding webpack from the inside out](https://youtu.be/H3g0BdyVVxA)
 - Colt Steele via Youtube| Mar-7-2019 - [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 - Naomi A. Jacobs via BuzzJS 2.0 2017 | Feb-27-2017 - [Webpack: It's Not Magic](https://www.youtube.com/watch?v=_QEM9kdV-b0)
 - Jack Franklin at HalfStack2016 | 18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
