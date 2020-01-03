@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Twig Loader](https://github.com/zimmo-be/twig-loader) - Twig template loader. -- *Maintainer*: `Zimmo.be Team` [![Github][githubicon]](https://github.com/zimmo-be)
 - [Auto ngTemplate Loader](https://github.com/YashdalfTheGray/auto-ngtemplate-loader): Autodetect Angular 1 templates and load them. -- *Maintainer*: `Yash Kulshrestha` [![Github][githubicon]](https://github.com/YashdalfTheGray)
 - [Pug Loader](https://github.com/pugjs/pug-loader) - Pug template loader (formerly Jade). -- *Maintainer*: `Pug Team` [![Github][githubicon]](https://github.com/pugjs)
+- [Simple Nunjucks Loader](https://github.com/ogonkov/nunjucks-loader) - Nunjucks template loader. -- *Maintainer*: `ogonkov` [![Github][githubicon]](https://github.com/ogonkov)
 
 #### Styles
 
