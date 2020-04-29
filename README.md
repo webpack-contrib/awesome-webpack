@@ -227,8 +227,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): A ESLint plugin for webpack
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
-- [Exclude Assets Webpack Plugin](https://github.com/klaytonfaria/webpack-exclude-assets-plugin): A plugin to exclude assets from webpack output based on a path RegExp pattern.
-. -- *Maintainer*: `Klayton Faria` [![Github][githubicon]](https://github.com/klaytonfaria)
+- [Exclude Assets Webpack Plugin](https://github.com/klaytonfaria/webpack-exclude-assets-plugin): A plugin to exclude assets from webpack output based on a path RegExp pattern. -- *Maintainer*: `Klayton Faria` [![Github][githubicon]](https://github.com/klaytonfaria)
 
 [Back to top](#contents)
 
