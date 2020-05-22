@@ -248,6 +248,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - Webpack bundle analysis on every commit, report webpack stats to every pull request.
 - [BundleStats](https://github.com/bundle-stats/bundle-stats) - Generates bundle report(sizes, assets, modules) and compares the results between different builds. -- *Maintainer*: `Vio` [![Github][githubicon]](https://github.com/vio) [![Twitter][twittericon]](https://twitter.com/vio)  
 - [Webpack Landing Generator](https://github.com/kuncevic/webpack-landing-generator): Easy way to create landing page that converts. -- *Maintainer*: `Aliaksei Kuncevic` [![Github][githubicon]](https://github.com/kuncevic) [![Twitter][twittericon]](https://twitter.com/kuncevic)
+- [Webpack Stats Explorer](https://erykpiast.github.io/webpack-stats-explorer/): Allows to investiage how the bundle changed between subsequent builds -- *Maintainer*: `Eryk Napierała` [![Github][githubicon]](https://github.com/erykpiast) [![Twitter][twittericon]](https://twitter.com/erykpiast)  
 
 [Back to top](#contents)
 
