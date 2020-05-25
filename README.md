@@ -305,6 +305,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) for Pluralsight (intermediate)
 - [Webpack Academy](https://webpack.academy) - A comprehensive webpack learning resource.
 - [Webpack workshops](https://slashgear.github.io/webpack-workshop/) - Collection of courses to learn webpack from novice to advanced levels by Antoine Caron
+- [Webpack from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxB2gZBIzYI50NPsAQERD9rL) on YouTube by Paris Nakita Kejser
 
 ### Books
 
