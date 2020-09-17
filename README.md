@@ -227,6 +227,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): A ESLint plugin for webpack
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
+- [Webpack Get Files Plugin](https://github.com/mhm13dev/webpack-get-files-plugin): Plugin for extracting output assets filenames into a separate JSON file according to the entrypoints specified in the webpack configuration. -- *Maintainer*: `Mubashir Hassan` [![Github][githubicon]](https://github.com/mhm13dev) [![Twitter][twittericon]](https://twitter.com/mhm13_dev)
 
 [Back to top](#contents)
 
