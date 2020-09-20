@@ -227,6 +227,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): A ESLint plugin for webpack
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
+- [Remove Files Webpack Plugin](https://github.com/Amaimersion/remove-files-webpack-plugin): Flexible plugin that removes files and folders before and after compilation. -- *Maintainer*: `Sergey Kuznetsov` [![Github][githubicon]](https://github.com/Amaimersion)
 
 [Back to top](#contents)
 
