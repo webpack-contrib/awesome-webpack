@@ -227,6 +227,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): A ESLint plugin for webpack
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
+ [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next): A plugin allows you to run any shell commands before or after webpack builds. -- *Maintainer*: `Kuzmin Pavel` [![Github][githubicon]](https://github.com/s00d)
 
 [Back to top](#contents)
 
