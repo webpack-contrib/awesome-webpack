@@ -348,7 +348,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - With Styled Components using Express with compression from [Erik Engi](https://github.com/kireerik).
 - [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) - A React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate.
-- [Rockpack](https://github.com/AlexSergey/rockpack) - Complex solution for creating React app with SSR, bundling, linting, testing, logging, localizing by 5 minutes.
+- [Rockpack](https://github.com/AlexSergey/rockpack) - simple solution for creating React application with SSR, bundling, linting, testing, logging, localizing within 5 minutes.
 
 ### Other
 
