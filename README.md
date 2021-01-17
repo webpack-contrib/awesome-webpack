@@ -230,6 +230,7 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next): A plugin allows you to run any shell commands before or after webpack builds. -- *Maintainer*: `Kuzmin Pavel` [![Github][githubicon]](https://github.com/s00d)
 - [Gettext Webpack Plugin](https://github.com/juanluispaz/gettext-webpack-plugin): Embed localization into your bundle using gettext. -- *Maintainer*: `Juan Luis Paz` [![Github][githubicon]](https://github.com/juanluispaz)
+- [Node Polyfill Plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules. -- *Maintainer*: `Richie Bendall` [![Github][githubicon]](https://github.com/Richienb) [![Twitter][twittericon]](https://twitter.com/Richienb2)
 
 [Back to top](#contents)
 
