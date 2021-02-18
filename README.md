@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) - Compile message catalogs on the fly for jsLingui, i18n library -- *Maintainer*: `Tomáš Ehrlich` [![Github][githubicon]](https://github.com/tricoder42) [![Twitter][twittericon]](https://twitter.com/tomas_ehrlich)
 - [Shell Loader](https://github.com/localjo/shell-loader) -  Run an arbitrary shell script on source files. -- *Maintainer*: `Jo Sprague` [![Github][githubicon]](https://github.com/localjo)
 - [EXIF Loader](https://github.com/herschel666/exif-loader) - Extract EXIF- & IPTC-data from your JPGs during build-time. -- *Maintainer*: `Emanuel Kluge` [![Github][githubicon]](https://github.com/herschel666/exif-loader) [![Twitter][twittericon]](https://twitter.com/herschel_r)
+- [esbuild Loader](https://github.com/privatenumber/esbuild-loader) - Blazing fast alternative to babel-loader, ts-loader, and Terser powered by [esbuild](https://github.com/evanw/esbuild). -- *Maintainer*: `Hiroki Osame` [![Github][githubicon]](https://github.com/privatenumber/esbuild-loader) [![Twitter][twittericon]](https://twitter.com/privatenumbr)
 
 #### Testing
 
