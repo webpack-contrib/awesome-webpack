@@ -55,8 +55,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 
 ### Documentation
 
-- [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
-- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
+- [Webpack 4.x](https://v4.webpack.js.org) - Webpack 4.x Documentation
+- [Webpack 5.x](https://webpack.js.org) - Webpack 5.x Documentation
 
 ### Community
 
@@ -161,6 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) - Compile message catalogs on the fly for jsLingui, i18n library -- *Maintainer*: `Tomáš Ehrlich` [![Github][githubicon]](https://github.com/tricoder42) [![Twitter][twittericon]](https://twitter.com/tomas_ehrlich)
 - [Shell Loader](https://github.com/localjo/shell-loader) -  Run an arbitrary shell script on source files. -- *Maintainer*: `Jo Sprague` [![Github][githubicon]](https://github.com/localjo)
 - [EXIF Loader](https://github.com/herschel666/exif-loader) - Extract EXIF- & IPTC-data from your JPGs during build-time. -- *Maintainer*: `Emanuel Kluge` [![Github][githubicon]](https://github.com/herschel666/exif-loader) [![Twitter][twittericon]](https://twitter.com/herschel_r)
+- [esbuild Loader](https://github.com/privatenumber/esbuild-loader) - Blazing fast alternative to babel-loader, ts-loader, and Terser powered by [esbuild](https://github.com/evanw/esbuild). -- *Maintainer*: `Hiroki Osame` [![Github][githubicon]](https://github.com/privatenumber/esbuild-loader) [![Twitter][twittericon]](https://twitter.com/privatenumbr)
 
 #### Testing
 
@@ -228,7 +229,11 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin): A Stylelint plugin for webpack. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): A ESLint plugin for webpack
 . -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
- [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next): A plugin allows you to run any shell commands before or after webpack builds. -- *Maintainer*: `Kuzmin Pavel` [![Github][githubicon]](https://github.com/s00d)
+- [Exclude Assets Webpack Plugin](https://github.com/klaytonfaria/webpack-exclude-assets-plugin): A plugin to exclude assets from webpack output based on a path RegExp pattern. -- *Maintainer*: `Klayton Faria` [![Github][githubicon]](https://github.com/klaytonfaria)
+- [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next): A plugin allows you to run any shell commands before or after webpack builds. -- *Maintainer*: `Kuzmin Pavel` [![Github][githubicon]](https://github.com/s00d)
+- [Gettext Webpack Plugin](https://github.com/juanluispaz/gettext-webpack-plugin): Embed localization into your bundle using gettext. -- *Maintainer*: `Juan Luis Paz` [![Github][githubicon]](https://github.com/juanluispaz)
+- [Node Polyfill Plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules. -- *Maintainer*: `Richie Bendall` [![Github][githubicon]](https://github.com/Richienb) [![Twitter][twittericon]](https://twitter.com/Richienb2)
+- [Bytenode Plugin](https://github.com/herberttn/bytenode-webpack-plugin): Compile JavaScript into bytecode using bytenode. -- *Maintainer*: `Herbert Treis Neto` [![Github][githubicon]](https://github.com/herberttn)
 
 [Back to top](#contents)
 
@@ -348,7 +353,10 @@ Lightweight CSS extraction plugin -- *Maintainer*: `Webpack Contrib` [![Github][
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - A fully functional boilerplate application optimized for dev and prod, including PRPL from [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - With Styled Components using Express with compression from [Erik Engi](https://github.com/kireerik).
 - [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) - A React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate.
-- [Rockpack](https://github.com/AlexSergey/rockpack) - simple solution for creating React application with SSR, bundling, linting, testing, logging, localizing within 5 minutes.
+- [Read](https://github.com/logustra/read) - A highly scalable react boilerplate from [logustra](https://github.com/logustra)
+
+#### Vue
+- [Vuad](https://github.com/logustra/vuad) - A highly scalable vue boilerplate from [logustra](https://github.com/logustra)
 
 ### Other
 
