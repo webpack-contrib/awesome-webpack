@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 - [Bin Exec Loader](https://github.com/milewski/bin-exec-loader): Pipe any file through any binary. -- *Maintainer*: `Rafael Milewski` [![Github][githubicon]](https://github.com/milewski)
 - [GraphQL Loader](https://github.com/stephen/graphql-loader): `.graphql` document loader. -- *Maintainer*: `Stephen Wan` [![Github][githubicon]](https://github.com/stephen)
 - [C/C++ Loader](https://github.com/ClickSimply/cpp-wasm-loader): Load native C/C++ files with minimal bundle bloat. -- *Maintainer*: `Scott Lott` [![Github][githubicon]](https://github.com/ClickSimply)
+- [AtBuild Loader](https://github.com/jarred-sumner/atbuild#webpack-loader): Use JavaScript to generate JavaScript code at buildtime. -- *Maintainer*: `Jarred Sumner` [![Github][githubicon]](https://github.com/jarred-sumner)
 
 #### Component & Template
 
